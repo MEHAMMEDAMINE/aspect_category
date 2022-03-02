@@ -7,7 +7,7 @@ if not os.path.exists(dir_path):
     os.makedirs(dir_path)
 
 with open(dir_path+"test_NLI_M.csv","w",encoding="utf-8") as g:
-    with open(data_dir+"Restaurants_Test_Gold.xml","r",encoding="utf-8") as f:
+    with open(data_dir+"HAAD_Test_GOLD.xml","r",encoding="utf-8") as f:
         s=f.readline().strip()
         while s:
             category=[]
@@ -54,7 +54,7 @@ with open(dir_path+"test_NLI_M.csv","w",encoding="utf-8") as g:
 
 
 with open(dir_path+"train_NLI_M.csv","w",encoding="utf-8") as g:
-    with open(data_dir+"Restaurants_Train.xml","r",encoding="utf-8") as f:
+    with open(data_dir+"HAAD_Train.xml","r",encoding="utf-8") as f:
         s=f.readline().strip()
         while s:
             category=[]
