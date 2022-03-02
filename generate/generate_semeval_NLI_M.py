@@ -1,6 +1,6 @@
 import os
 
-data_dir='../data/semeval2014/'
+data_dir='../data/HAAD./'
 
 dir_path = data_dir+'bert-pair/'
 if not os.path.exists(dir_path):
