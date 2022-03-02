@@ -29,7 +29,7 @@ def get_y_true(task_name):
                 n = 2
             y_true.append(n)
     else:
-        true_data_file = "data/semeval2014/bert-pair/test_NLI_M.csv"
+        true_data_file = "data/HAAD./bert-pair/test_NLI_M.csv"
 
         df = pd.read_csv(true_data_file,sep='\t',header=None).values
         y_true=[]
