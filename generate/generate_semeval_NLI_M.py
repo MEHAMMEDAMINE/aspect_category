@@ -33,7 +33,7 @@ with open(dir_path+"test_NLI_M.csv","w",encoding="utf-8") as g:
                         category.append(s[left+10:right-2])
                         left=s.find("polarity=")
                         right=s.find("/>")
-                        polarity.append(s[left+10:right-2])
+                        polarity.append(s[left+10:right-1])
                     s=f.readline().strip()
                 if "المزايا" in category:
                     g.write(id+"\t"+polarity[category.index("المزايا")]+"\t"+"المزايا"+"\t"+text+"\n")
