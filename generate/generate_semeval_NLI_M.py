@@ -43,19 +43,16 @@ with open(dir_path+"test_NLI_M.csv","w",encoding="utf-8") as g:
                 
                 if "المشاعر" in category:
                     g.write(id+"\t"+polarity[category.index("المشاعر")]+"\t"+"المشاعر"+"\t"+text+"\n")
-                else:
-                    g.write(id + "\t" + "none" + "\t" + "المشاعر" + "\t" + text + "\n")
+                
                 if "الاسلوب" in category:
                     g.write(id+"\t"+polarity[category.index("الاسلوب")]+"\t"+"الاسلوب"+"\t"+text+"\n")
-                else:
-                    g.write(id + "\t" + "none" + "\t" + "الاسلوب" + "\t" + text + "\n")
+                
                 if "السياق" in category:
                     g.write(id+"\t"+polarity[category.index("السياق")]+"\t"+"السياق"+"\t"+text+"\n")
       
                 if "السلبيات" in category:
                     g.write(id+"\t"+polarity[category.index("السلبيات")]+"\t"+"السلبيات"+"\t"+text+"\n")
-                else:
-                    g.write(id + "\t" + "none" + "\t" + "السلبيات" + "\t" + text + "\n")
+
                 if "المؤلف" in category:
                    g.write(id+"\t"+polarity[category.index("المؤلف")]+"\t"+"المؤلف"+"\t"+text+"\n")
                 
@@ -64,12 +61,10 @@ with open(dir_path+"test_NLI_M.csv","w",encoding="utf-8") as g:
                 
                 if "الاماكن" in category:
                     g.write(id+"\t"+polarity[category.index("الاماكن")]+"\t"+"الاماكن"+"\t"+text+"\n")
-                else:
-                    g.write(id + "\t" + "none" + "\t" + "الاماكن" + "\t" + text + "\n")
+                
                 if "الطائفية" in category:
                   g.write(id+"\t"+polarity[category.index("الطائفية")]+"\t"+"الطائفية"+"\t"+text+"\n")
-                else:
-                  g.write(id + "\t" + "none" + "\t" + "الطائفية" + "\t" + text + "\n")
+                
                 if "الخاتمة" in category:
                  g.write(id+"\t"+polarity[category.index("الخاتمة")]+"\t"+"الخاتمة"+"\t"+text+"\n")
               
@@ -78,8 +73,7 @@ with open(dir_path+"test_NLI_M.csv","w",encoding="utf-8") as g:
                
                 if "الهوامش" in category:
                  g.write(id+"\t"+polarity[category.index("الهوامش")]+"\t"+"الهوامش"+"\t"+text+"\n")
-                else:
-                 g.write(id + "\t" + "none" + "\t" + "الهوامش" + "\t" + text + "\n")
+                
                 if "الوقت" in category:
                  g.write(id+"\t"+polarity[category.index("الوقت")]+"\t"+"الوقت"+"\t"+text+"\n")
                
