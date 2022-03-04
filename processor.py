@@ -322,15 +322,15 @@ class Semeval_NLI_M_Processor(DataProcessor):
     def get_dev_examples(self, data_dir):
         """See base class."""
         dev_data = pd.read_csv(os.path.join(data_dir, "dev_NLI_M.csv"),header=None,sep="\t")
-        train_data=train_data.sample(frac = 1)
-        train_data=train_data.values
+        dev_data=dev_data.sample(frac = 1)
+        dev_data=dev_data.values
         return self._create_examples(dev_data, "dev")
 
     def get_test_examples(self, data_dir):
         """See base class."""
         test_data = pd.read_csv(os.path.join(data_dir, "test_NLI_M.csv"),header=None,sep="\t")
-        train_data=train_data.sample(frac = 1)
-        train_data=train_data.values
+        test_data=test_data.sample(frac = 1)
+        test_data=test_data.values
         return self._create_examples(test_data, "test")
 
     def get_labels(self):
