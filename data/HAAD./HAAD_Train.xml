@@ -11804,40 +11804,4 @@
 			<aspectCategory category="الحبكة" polarity="negative"/>
 		</aspectCategories>
 	</sentence>
-	<sentence id="1485">
-		<text>رواية أحداثها مثيرة و مشوقة و لكن ألفاظها و ايحاءاتها بذيئة للغاية و تشعرنى بالحرج الشديد وأنا أقرءها و أيضا تشعرنى بالمضايقه و الاشمئزاز بدلا من ان تدخلنى فى عالم السعاده و أنا أقرأ</text>
-		<aspectTerms>
-			<aspectTerm term="أحداثها" polarity="negative" from="6" to="13"/>
-		</aspectTerms>
-		<aspectCategories>
-			<aspectCategory category="الاسلوب" polarity="negative"/>
-		</aspectCategories>
-	</sentence>
-	<sentence id="1486">
-		<text>الأسلوب طفولي بالنسبة لي لكن دمج الكاتب لحقبتين من الزمن بداع خيالي وددت لوصيغت بحرفية أكثر</text>
-		<aspectTerms>
-			<aspectTerm term="الأسلوب" polarity="negative" from="0" to="7"/>
-		</aspectTerms>
-		<aspectCategories>
-			<aspectCategory category="الاسلوب" polarity="negative"/>
-		</aspectCategories>
-	</sentence>
-	<sentence id="1487">
-		<text>محبتهاش لم يعجبنى أسلوب الكاتب الذى أصر فيه علي التركيز علي وصف مكرر لمواصفات المرأة الجسدية التى لم تخدم المعنى الذى يعبر عنه بأى حال من الأحوال هى سرد لحياة أستاذ مساعد بأحد الجامعات الأمريكية</text>
-		<aspectTerms>
-			<aspectTerm term="أسلوب" polarity="negative" from="18" to="23"/>
-		</aspectTerms>
-		<aspectCategories>
-			<aspectCategory category="الاسلوب" polarity="negative"/>
-		</aspectCategories>
-	</sentence>
-	<sentence id="1489">
-		<text>القصة في مجملها جيدة طريقة سرد الأحداث كانت عادية بالنسبة لي لم أشعر أنها تحفة أو أي شئ من هذا القبيل القصة في مجملها لم تبهرني للحد الذي توقعته الصراحة وخاصةً انها حازت على إطراء كبير جداً</text>
-		<aspectTerms>
-			<aspectTerm term="الأحداث" polarity="negative" from="31" to="38"/>
-		</aspectTerms>
-		<aspectCategories>
-			<aspectCategory category="الاسلوب" polarity="negative"/>
-		</aspectCategories>
-	</sentence>
 </sentences>
