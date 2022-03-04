@@ -1,0 +1,3001 @@
+<sentences>
+	<sentence id="1323">
+		<text>بصراحة أنا ما أحب الكاتب اللي يدخل اللغة العامية في كتاباته مع اني أمارس هذا الخطأ</text>
+		<aspectTerms>
+			<aspectTerm term="اللغة العامية" polarity="negative" from="35" to="48"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="اللغات" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1324">
+		<text>روايه حزينه قد لاتستحق عناء القراءه</text>
+		<aspectTerms>
+			<aspectTerm term="روايه" polarity="negative" from="0" to="5"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1326">
+		<text>والمشكله الوحيده التي واجهتني هي؛ القراءه باللهجه المصريه، حيث تبين لي أنها مسموعه اسهل بكثير منها مقروءه</text>
+		<aspectTerms>
+			<aspectTerm term="باللهجه المصريه" polarity="negative" from="42" to="57"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="اللغات" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1327">
+		<text>ربما يكون الكتاب جيداً ولكن بروز شخصية الكاتب المتملقه تفسد ذلك</text>
+		<aspectTerms>
+			<aspectTerm term="شخصية الكاتب" polarity="negative" from="33" to="45"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المشاعر" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1328">
+		<text>لم تعجبني كروايه بالرغم من استمتاعي بالمعلومات الدبلوماسيه المثيره التي تخللتها</text>
+		<aspectTerms>
+			<aspectTerm term="روايه" polarity="negative" from="11" to="16"/>
+			<aspectTerm term="المعلومات" polarity="neutral" from="37" to="46"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1329">
+		<text>رغم الجهد المبذول في جمع الوثائق والصور المادية في هذا الكتاب، إلا ان تحيزه لأفكاره محددة، وفرضها قصراً على المتلقي يفقده الكثير من الموضوعية</text>
+		<aspectTerms>
+			<aspectTerm term="لأفكاره" polarity="negative" from="76" to="83"/>
+			<aspectTerm term="الموضوعية" polarity="negative" from="132" to="141"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1330">
+		<text>الكتاب من عنوانه مليء بالتشتت والشغب لم اجد متعة الفضول لإتمام قراءته</text>
+		<aspectTerms>
+			<aspectTerm term="عنوانه" polarity="negative" from="10" to="16"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1332">
+		<text>الرواية تجللك فى حالة نفسية سيئة تمام لذلك لا تحاول أن تقرأ هذة الرواية قد تصاب بالغثيان و تحاول تمزيق أوراقها بعد قراءتها لما ستشحن به من طاقة سلبية نتيجة كثرة ذكر المخدرات والخمور والخيانة والسحر والمرض النفسى وقتل زوج لزوجته</text>
+		<aspectTerms>
+			<aspectTerm term="الرواية" polarity="negative" from="0" to="7"/>
+			<aspectTerm term="طاقة سلبية" polarity="negative" from="139" to="149"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المشاعر" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1335">
+		<text>الروايه فيها تكرار بالاحداث وتفاصيل مملة ومطوّلة احسست بعدها بشعور الاحباط والانزعاج ولم أهدأ الى ان وصلت الى نهايتها</text>
+		<aspectTerms>
+			<aspectTerm term="الروايه" polarity="negative" from="0" to="7"/>
+			<aspectTerm term="تكرار بالاحداث" polarity="negative" from="13" to="27"/>
+			<aspectTerm term="وتفاصيل مملة" polarity="negative" from="28" to="40"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1338">
+		<text>كلمات غير عربية أو مترجمة بشكل صحيح إضافة إلى خلط الخط الزمني في الرواية</text>
+		<aspectTerms>
+			<aspectTerm term="كلمات" polarity="negative" from="0" to="5"/>
+			<aspectTerm term="الرواية" polarity="negative" from="65" to="72"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="اللغات" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1339">
+		<text>الرواية لا تستحق أبدا الضجة الإعلامية الكبيرة التي أعطيت لها و طويلة جدا وكان بالإمكان كما يقول غازي القصيبي حذف ثلثيها</text>
+		<aspectTerms>
+			<aspectTerm term="الرواية" polarity="negative" from="0" to="7"/>
+			<aspectTerm term="الضجة الإعلامية" polarity="negative" from="22" to="37"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المشاعر" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1340">
+		<text>أعترف أنها أفقتدني الرغبة في متابعة روايات محمد علوان الأخرى</text>
+		<aspectTerms>
+			<aspectTerm term="محمد علوان" polarity="negative" from="43" to="53"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المؤلف" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1341">
+		<text>تقيماتي للقصيبي لا يمكن أن تكون موضوعية بحكم أنني معجب جدا بأسلوب الرجل وقرأت معظم كتاباته</text>
+		<aspectTerms>
+			<aspectTerm term="كتاباته" polarity="negative" from="83" to="90"/>
+			<aspectTerm term="موضوعية" polarity="negative" from="32" to="39"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1342">
+		<text>أتمنى ان يهمس أحدهم في أُذن تركي بأن يترك الكتابه لأهلها</text>
+		<aspectTerms>
+			<aspectTerm term="تركي" polarity="negative" from="28" to="32"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المؤلف" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1344">
+		<text>استمتعت بلغة الرواية اكثر من الرواية لان القصة مالوفة الاكثر وجعا ليس ما لم يكن يوما لنا بل ما امتلكناه برهة من الزمن و سيضل ينقصنا الاى الابد</text>
+		<aspectTerms>
+			<aspectTerm term="الرواية" polarity="negative" from="13" to="20"/>
+			<aspectTerm term="القصة" polarity="negative" from="41" to="46"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1345">
+		<text>الروايه الوحيده في حياتي التي لم اكمل قرائتها لا يوجد احداث انما كلام مكرر و ممل اطال فيه القصيبي في الحقيقه ركنت الروايه جانباً على امل ان أعاود قرائتها لاحقاً وهذا الذي لم يحدث الى اليوم</text>
+		<aspectTerms>
+			<aspectTerm term="الروايه" polarity="negative" from="0" to="7"/>
+			<aspectTerm term="كلام" polarity="negative" from="65" to="69"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1346">
+		<text>لم اجد في الرواية الحبكة التي تشدني الى النهاية</text>
+		<aspectTerms>
+			<aspectTerm term="الرواية" polarity="negative" from="10" to="17"/>
+			<aspectTerm term="الحبكة" polarity="negative" from="18" to="24"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الحبكة" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1347">
+		<text>من عادتي في القراءة ان لايلبث معي الكتاب طويلاً كي انتهي منه، الا هذه الرواية بحيث أني كلما انتهيت من قراءة جزء منها استغرق وقتاً حتى أعاود القراءة</text>
+		<aspectTerms>
+			<aspectTerm term="الكتاب" polarity="negative" from="34" to="40"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المشاعر" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1348">
+		<text>قد يكون كوني قرأت الروايه متأخرا دور في تقييمي الضعيف له</text>
+		<aspectTerms>
+			<aspectTerm term="الروايه" polarity="negative" from="18" to="25"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="التقييم" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1349">
+		<text>تصلح كرواية في ادب المؤامرات لا انصح بقرائتها الا لتسلية</text>
+		<aspectTerms>
+			<aspectTerm term="رواية" polarity="negative" from="6" to="11"/>
+			<aspectTerm term="ادب المؤامرات" polarity="negative" from="15" to="28"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المشاعر" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1350">
+		<text>سيىء للغلية مقضرتش اكملوا للاخر حتى  مع انى من محبين حلمى بس خليه فى السينيما</text>
+		<aspectTerms>
+			<aspectTerm term="حلمى" polarity="negative" from="53" to="57"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المؤلف" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1351">
+		<text>الكتاب ليس بجودة الكتب التى قرأتها له من قبل</text>
+		<aspectTerms>
+			<aspectTerm term="الكتاب" polarity="negative" from="0" to="6"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="التقييم" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1352">
+		<text>كتاب فاشل بكل ما تحمل الكلمة من معاني  بجد كرهته جداً</text>
+		<aspectTerms>
+			<aspectTerm term="كتاب" polarity="negative" from="0" to="4"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المشاعر" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1353">
+		<text>لكن كتاب زي كتاب مالوش اسم بتاع احمد العسيلي ده ببساطة كتاب فاشل مافيش منه اي استفادة</text>
+		<aspectTerms>
+			<aspectTerm term="كتاب" polarity="negative" from="4" to="8"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1354">
+		<text>مكتوب بالعامية يعني لا حتى هستفاد منه بحصيلة لغوية و لا حتى اتعلم منه طريقة جديدة في الكتابة و حتى الموضوعات كلها قديمة و اتقالت في مليون كتاب قبل كده</text>
+		<aspectTerms>
+			<aspectTerm term="الكتابة" polarity="negative" from="85" to="92"/>
+			<aspectTerm term="كتاب" polarity="negative" from="138" to="142"/>
+			<aspectTerm term="الموضوعات" polarity="negative" from="99" to="108"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1355">
+		<text>لو بتفكر تقرا الرواية ماتقرهاش احسن و تضيع وقتك مخيبة للآمال كثيراً</text>
+		<aspectTerms>
+			<aspectTerm term="الرواية" polarity="negative" from="14" to="21"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1357">
+		<text>السبب الرئيسى فى سوء الروايه كروايه طويله هو اهتمامها بافكار تميل الى حد بعيد للفلسفه ليست هذه هى المشكله لكن المشكله فى طريقه تناول هذه الافكار عن طريق حوارات بين شخصيات الروايه وليس من خلال مواقف توضح هذه الافكار لدرجه أن فى بعض اللحظات أثناء الحوارات تشعر كانك تقرا كتاب فى الفلسفه وليس روايه</text>
+		<aspectTerms>
+			<aspectTerm term="الروايه" polarity="negative" from="21" to="28"/>
+			<aspectTerm term="بافكار" polarity="negative" from="54" to="60"/>
+			<aspectTerm term="شخصيات الروايه" polarity="negative" from="164" to="178"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1360">
+		<text>مع توالى الصفحات والاحداث ياتيك الملل من الوصف المبالغ فيه حيث تشعر فى بعض الاحيان بانك لا تقرا روايه بل انك جغرافى تبحث فى كتاب عن جغرافيا الاماكن فى هذا العصر احداث غير مثيره ولا وجود لعنصر التشويق</text>
+		<aspectTerms>
+			<aspectTerm term="روايه" polarity="negative" from="96" to="101"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1361">
+		<text>ثانى تجربه فاشله مع يوسف زيدان لم استطع اكمال الروايه لنهايتها</text>
+		<aspectTerms>
+			<aspectTerm term="يوسف زيدان" polarity="negative" from="20" to="30"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المؤلف" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1362">
+		<text>لم استطع اكمال الروايه لنهايتها احداث الروايه بعيده عن هدفها</text>
+		<aspectTerms>
+			<aspectTerm term="الروايه" polarity="negative" from="15" to="22"/>
+			<aspectTerm term="احداث الروايه" polarity="negative" from="32" to="45"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1364">
+		<text>كنت أتوقع أن ارى أمثر من هذا في سيرة رجل بحجم أحمد زويل لكن للأسف كان الكتاب أقل مما تصورت الجزء الثاني من الكتاب والذي فيه بعض محاظراته أفضل بكثير من الجزء الأول</text>
+		<aspectTerms>
+			<aspectTerm term="أحمد زويل" polarity="negative" from="46" to="55"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المؤلف" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1365">
+		<text>الكتاب بعيد عن كل القيم الدينية والاجتماعية وحتى قيم الرجولة والشهامة بالنسبة لي كتاب انتشلته من مستنقع ثم رميته فيه مرة أخرى وبلا رجعة</text>
+		<aspectTerms>
+			<aspectTerm term="مستنقع" polarity="negative" from="97" to="103"/>
+			<aspectTerm term="الكتاب" polarity="negative" from="0" to="6"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السلبيات" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1366">
+		<text>لم احبه منذ ان لاحظت ان موت والديه لم يشكل فارقا معه بل على العكس  كرهت الملل</text>
+		<aspectTerms>
+			<aspectTerm term="الملل" polarity="negative" from="72" to="77"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المشاعر" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1367">
+		<text>روايه طويله جدا . مليئه بالاحداث والاشحاص والتفاصيل في رأي ان اسلوبها الادبي ضعيف جدا ولكن ما يميزها هو صدق التجربه و واقعيتها</text>
+		<aspectTerms>
+			<aspectTerm term="روايه" polarity="negative" from="0" to="5"/>
+			<aspectTerm term="الاحداث" polarity="negative" from="25" to="32"/>
+			<aspectTerm term="اسلوب" polarity="negative" from="62" to="67"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1374">
+		<text>عندما يشب حريق في بيتك، ويدعوك أحدهم للصلاة والتضرع الى الله، ينبغي عليك ان تعلم أنها دعوة خائن فكيف الى عمل آخر</text>
+		<aspectTerms>
+			<aspectTerm term="حريق" polarity="negative" from="10" to="14"/>
+			<aspectTerm term="خائن" polarity="negative" from="91" to="95"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الحبكة" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1375">
+		<text>الرواية فعلا رائعة, بس كانت المشكلة الوحيدة الاطالة فى التفاصيل</text>
+		<aspectTerms>
+			<aspectTerm term="المشكلة" polarity="negative" from="28" to="35"/>
+			<aspectTerm term="التفاصيل" polarity="negative" from="55" to="63"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="731">
+		<text>حذقة هي القصص المجمعة بهذا الكتاب ، حذقة بحذاقة حارات مصر الشعبية  وفهلوة  أهلها المعذبين ، وخفة دمهم و نكتتهم الحاضرة النابعة من قلب ما هم فيه من الضيق وسوء المعيشة يذكرك بمسرحيات عادل إمام( خصوصاً الزعيم ) ، وبعض حواراتها التي لا تنساها لفرط ما أطلقت عليها من الضحكات ، تحمل نفس الروح التهكمية و نفس الفداء والوطنية الهازلة ونفس روح  هشتكنا وبشتكنا يا ريس دنتا رئيس والنعمة كويس  وهي لهذا  ولزاما تحمل بعض الألفاظ الخارجة والكلمات العامية ، وبعض النكات والحوارات ذات المنحى الجنسي ، الذي أجده قد أفسد على بلال فضل كتابته في بعض قصصه أفكار خلاقة ، وبديعة، وذات كنايات متقنة ، وسياق كان من الممكن أن يكون مؤثراً .وبل مبكيا حتى  لولا أنه يكتب بعجالة أو ما أظنه عفوية و انطلاق دون اللجوء لقليل من الصنعة الكتابية و سبك الألفاظ  أكثر ما راقني من قصص الكتاب كانت  البلد بتاعة سيادته و  في نفق العروبة</text>
+		<aspectTerms>
+			<aspectTerm term="الألفاظ" polarity="negative" from="408" to="415"/>
+			<aspectTerm term="والكلمات" polarity="negative" from="424" to="432"/>
+			<aspectTerm term="الحوارات" polarity="negative" from="456" to="464"/>
+			<aspectTerm term="كنايات" polarity="positive" from="562" to="568"/>
+			<aspectTerm term="أفكار" polarity="positive" from="535" to="540"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="863">
+		<text>الكاتب هز الكثير من المصطلحات مثل الحرية و التنمية الاقتصادية والإنسانة وتمكين المرأة وحرية الإعلام التي خرجت علينا من خلال دراسات قام بها الغربية لمحاولة التأكيد في رسائل غير مباشرة للعالم العربي بأنه لايزال يعاني من مشكلات تقدم عليها الغرب وأجتازها في حين أن لدى الغرب الكثير من المشكلات التي قد تقلب موازين الحرية التي يدعونها</text>
+		<aspectTerms>
+			<aspectTerm term="الحرية" polarity="positive" from="34" to="40"/>
+			<aspectTerm term="الكاتب" polarity="positive" from="0" to="6"/>
+			<aspectTerm term="رسائل" polarity="negative" from="166" to="171"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="864">
+		<text>وفي هذا اتفق مع جلال أمين , أنها موجودة لدى الغرب بفارق بسيط هو أن أي جماعة أو شخوص يعانون في المجتمع الغربي من الاضطهاد لديهم المحال للحديث والمطالبة إذا استطاعوا أن يصلوا للرأي العام في حين تنعدم وسائل التعبير لدينا</text>
+		<aspectTerms>
+			<aspectTerm term="رأي العام" polarity="positive" from="175" to="184"/>
+			<aspectTerm term="وسائل التعبير" polarity="positive" from="198" to="211"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المزايا" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="866">
+		<text>كتاب عميق رغم انه خفيف , هز مصطلحات تشربناها لنعيد التفكير بها و نشك بكل طرق تلقينا للأفكار حتى نستطيع أن نخرج بأفكار خاصة, طريقته في طرح الأسئلة هي احترام لعقل القارئ ولفكره وخروج عن الطرق التي تعودت الوصايا على العقول</text>
+		<aspectTerms>
+			<aspectTerm term="كتاب" polarity="positive" from="0" to="4"/>
+			<aspectTerm term="مصطلحات" polarity="positive" from="28" to="35"/>
+			<aspectTerm term="طرق" polarity="positive" from="73" to="76"/>
+			<aspectTerm term="أفكار خاصة" polarity="positive" from="112" to="122"/>
+			<aspectTerm term="الأسئلة" polarity="positive" from="138" to="145"/>
+			<aspectTerm term="القارئ" polarity="positive" from="161" to="167"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="التقييم" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1377">
+		<text>ما جدوى كل الشعر الذي قرأته وكل الأدب الذي أدمنته إن كانت لاتستطيع أن تنقل له بالكلمات كيف تحبه</text>
+		<aspectTerms>
+			<aspectTerm term="الشعر" polarity="negative" from="11" to="16"/>
+			<aspectTerm term="الأدب" polarity="negative" from="32" to="37"/>
+			<aspectTerm term="الكلمات" polarity="negative" from="79" to="86"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1379">
+		<text>ما الفقر؟؟ ليس الفقر هو الجوع الى المأكل او العرى الى الكسوة الفقر هو القهر الفقر هو استخدام الفقر لاذلال الروح الفقر هو استغلال الفقر لقتل الحب وزرع البغضاء.</text>
+		<aspectTerms>
+			<aspectTerm term="القهر" polarity="negative" from="70" to="75"/>
+			<aspectTerm term="البغضاء" polarity="negative" from="150" to="157"/>
+			<aspectTerm term="الفقر" polarity="negative" from="3" to="8"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الحبكة" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1382">
+		<text>مهووسةٌ أنـا بـكَ ، أُحبـكَ إلى درجـةِ الهـوّس . الهـوّس الذي لا أطيقـهُ ولا طاقـةَ لي على الخـلاصِ منـه</text>
+		<aspectTerms>
+			<aspectTerm term="الهـوّس" polarity="negative" from="39" to="46"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المشاعر" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1383">
+		<text>هذا الملل الذى يعانى منه لابدان يراجع فيه طبيبا نفسيا.</text>
+		<aspectTerms>
+			<aspectTerm term="الملل" polarity="negative" from="4" to="9"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1386">
+		<text>تمدين لهم يد النجاة على أمل أن تكسبي رجلاً, فإذا بالرجل يتشبث بتلابيبك حد إغراقك معه في بركة مياهه الآسنة</text>
+		<aspectTerms>
+			<aspectTerm term="الرجل" polarity="negative" from="50" to="55"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1392">
+		<text>اذا اتخذت مصر كمثال تحت حكم مبارك و قارنت بين ما تقرأه و الموجود الواقع لوجدت تطابق مفزع انه المستبد في كل زمان و مكان وكيف يتمكن من الامساك برقابنا</text>
+		<aspectTerms>
+			<aspectTerm term="المستبد" polarity="neutral" from="93" to="100"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الحبكة" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1396">
+		<text>مغموسة بالألم رائحة الموت تفوح بين سطورها عميقة في وصف الحرمان و الألم.</text>
+		<aspectTerms>
+			<aspectTerm term="الموت" polarity="negative" from="20" to="25"/>
+			<aspectTerm term="الألم" polarity="negative" from="8" to="13"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الحبكة" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1405">
+		<text>توفيق الحكيم كان بيحكي عن اللي احنا عايشينه النهاردة بالتفصيل فقدان الاحساس بقيمة الانسان. فقدان الاحساس بعظمته وفقدان قيمة دمه</text>
+		<aspectTerms>
+			<aspectTerm term="قيمة الانسان" polarity="negative" from="77" to="89"/>
+			<aspectTerm term="الاحساس" polarity="negative" from="68" to="75"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1415">
+		<text>غالبت نفسي حتى أكمله ولم تتغير نظرتي له منذ الصفحات الأولى فهو لا يعدوا إلا أن يكون جلسة طق حنك في صالون نسائي</text>
+		<aspectTerms>
+			<aspectTerm term="جلسة" polarity="negative" from="84" to="88"/>
+			<aspectTerm term="صالون" polarity="negative" from="99" to="104"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="التقييم" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1416">
+		<text>بدايةً الكاتبة من جدّة . لا يحق لها أن تكتب عن بنات الرّياض أصلا  ثانيًا حتّى لو كانت واقعيّة فهي تمثّل شريحة تافهة من المجتمع</text>
+		<aspectTerms>
+			<aspectTerm term="شريحة" polarity="negative" from="104" to="109"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الحبكة" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1419">
+		<text>موضوع الرواية وألفاظها وضيعة الغاية والمعاني</text>
+		<aspectTerms>
+			<aspectTerm term="الرواية" polarity="negative" from="6" to="13"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السلبيات" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1420">
+		<text>أنهيتُ الكتاب بدُون أيّ فائدة واضحة  مواضيعهُ كانت مُكرّرة ، وأسلوبُ الكتاب كان توجيهاتٍ مُباشرة للقارئ</text>
+		<aspectTerms>
+			<aspectTerm term="الكتاب" polarity="negative" from="7" to="13"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1422">
+		<text>اكاذيب ثم اكاذيب ثم اكاذيب ثم فى النهاية اكاذيك ايضا</text>
+		<aspectTerms>
+			<aspectTerm term="اكاذيك" polarity="negative" from="41" to="47"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السلبيات" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1423">
+		<text>يمكن اكون محتاج اقراها تانى فى وقت افضل من كدة</text>
+		<aspectTerms>
+			<aspectTerm term="وقت" polarity="negative" from="31" to="34"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الوقت" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1424">
+		<text>لم احب استرسال الكاتب في الحديث في مشاهد لم تكن هناك فائدة بالتحدث عنها و في المقابل لم يعطي بعض المشاهد حقها</text>
+		<aspectTerms>
+			<aspectTerm term="مشاهد" polarity="negative" from="35" to="40"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1425">
+		<text>القصيدة مشكلتها في التناول مشكلتها في البداية والنهاية مضامينها وشكلها وعديد من المسائل</text>
+		<aspectTerms>
+			<aspectTerm term="شكل" polarity="negative" from="9" to="12"/>
+			<aspectTerm term="المسائل" polarity="negative" from="80" to="87"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السلبيات" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1426">
+		<text>أعترض على رأيه في تقسيم رد فعل الناس على دعوته ( جماعة الاخوان ) ,, من معاداة من يعارض دعوته و عدم إيذاء من يكون محايد فلا يعارض ولا يتبع , و محبة من يؤيد الدعوة فهو في ذلك جعلها و كأنها دين من عند الله .</text>
+		<aspectTerms>
+			<aspectTerm term="جماعة الاخوان" polarity="negative" from="49" to="62"/>
+			<aspectTerm term="الدعوة" polarity="negative" from="155" to="161"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1427">
+		<text>و اخيرا : رأي الشخصي أنه أراد أن يعيد الناس جميعا بالاكراه على الدين بعد أن ابتعدوا عنه</text>
+		<aspectTerms>
+			<aspectTerm term="الدين" polarity="negative" from="63" to="68"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1428">
+		<text>رغم محاولتي المستمرةلا أعرف ما السبب خلف عدم انسجامي مع هذا الكتاب أهو أسلوب الكاتب؟ أم تطرقه لمواضيع لم أجد فيها التشويق أو ما يستدعي متابعة القراءة؟ أم أنني لك أختر الوقت المناسب لقراءته</text>
+		<aspectTerms>
+			<aspectTerm term="الكتاب" polarity="negative" from="60" to="66"/>
+			<aspectTerm term="الوقت" polarity="negative" from="167" to="172"/>
+			<aspectTerm term="السبب" polarity="negative" from="31" to="36"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1429">
+		<text>كتاب مبالغ فيه ،، ممل و مكرر في افكاره ،، دا بالاضافة الى الاستسلام الزائد عن اللزوم من المؤلف</text>
+		<aspectTerms>
+			<aspectTerm term="كتاب" polarity="negative" from="0" to="4"/>
+			<aspectTerm term="المؤلف" polarity="negative" from="88" to="94"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السلبيات" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1431">
+		<text>تحكي عن الصراع النفسي بين  الأعراق  الأبيض  الأسود  ملهمة في هذا الجانب النفسي لكنها ليست بذلك المستوى الأدبي الرواي الرفيع</text>
+		<aspectTerms>
+			<aspectTerm term="الأعراق" polarity="negative" from="27" to="34"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1432">
+		<text>في هذا الكتاب مشاعر شديدة الصدق ، ويمكننا أخذ اقتباسات جميلة منه لكن ما يعيبه كثرة تكرار المشاعر نفسها بمفردات جديدة</text>
+		<aspectTerms>
+			<aspectTerm term="المشاعر" polarity="negative" from="89" to="96"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المشاعر" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1435">
+		<text>رواية زبالة</text>
+		<aspectTerms>
+			<aspectTerm term="رواية" polarity="negative" from="0" to="5"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1436">
+		<text>قايم كله على فكرة التناسخ اللى كان الهنود بيؤمنوا بيها . مش فى ديننا الكلام دة</text>
+		<aspectTerms>
+			<aspectTerm term="التناسخ" polarity="negative" from="18" to="25"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1437">
+		<text>هذا المط والتطويل غير المبرر انتزع من تقييمي نجمة ثم دخلنا في فصلين سمية وذكرى</text>
+		<aspectTerms>
+			<aspectTerm term="نجمة" polarity="negative" from="45" to="49"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="التقييم" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1438">
+		<text>الاخ نوبوأكي نوتوهارا شكراً لتفريغ جزء من وقتلك لوصف التجربية العربية، لكن انا شخصياً لم اسمتع بها، كانت مملة، ومع انك بدأت بداية موفقة تناسب عنوان الكتاب الا انك شطحت فجأة لغرامك الادبي وبت محدثاً عن العرب لا لهم.</text>
+		<aspectTerms>
+			<aspectTerm term="العرب" polarity="negative" from="62" to="67"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1440">
+		<text>قصص الكتاب ليست بائسة أو ان اسلوب طه حسين لم يجعلها بائسة بالمقدار المناسب</text>
+		<aspectTerms>
+			<aspectTerm term="اسلوب" polarity="negative" from="28" to="33"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1441">
+		<text>موران وعمورية بلدان يقعان في الشرق المتوسط وانا شخصياً اخمن انهماالعراق وسورية وهما ككل البلدان هناك يعذبون كل من يقول لا لاصنامهم من الزعماء.</text>
+		<aspectTerms>
+			<aspectTerm term="الزعماء" polarity="negative" from="134" to="141"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1442">
+		<text>انتزعت نجمة أخرى لأن كل هذا التفصيل كان في غنى عنه</text>
+		<aspectTerms>
+			<aspectTerm term="نجمة" polarity="negative" from="7" to="11"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="التقييم" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1444">
+		<text>قد يكون هذا للصورة الكبيرة التي صنعتها كلمات الناس في مخيلتي، إلا أنني عندما قرأت الرواية لم ترق لي. وقد يكون هذا للترجمة الضعيفة من كريم محمود، فلغة الكتابة لم ترق لي أيضًا</text>
+		<aspectTerms>
+			<aspectTerm term="ترجمة" polarity="negative" from="116" to="121"/>
+			<aspectTerm term="لغة" polarity="negative" from="146" to="149"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="اللغات" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1447">
+		<text>أعتقد بأنني أصبت بخيبة أمل اليوم في قراءتي للكتاب , الكتيب جيد لكنه ليس بحجم الصورة المرسومة عنه</text>
+		<aspectTerms>
+			<aspectTerm term="الكتيب" polarity="negative" from="52" to="58"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1449">
+		<text>لكني أحسست بأن الكاتب في كتابه هذا بسط الموضوع أكثر من اللازم. ومن النهاية , لم يرق لي الكتاب بصراحة</text>
+		<aspectTerms>
+			<aspectTerm term="الكتاب" polarity="negative" from="87" to="93"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1450">
+		<text>الكتاب بسيط, فيه جزئيات لطيفة, لكن غالبيته كان مجرد كلام كثير, بالنسبة لي لم يرق لي الكتاب</text>
+		<aspectTerms>
+			<aspectTerm term="كلام" polarity="negative" from="52" to="56"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الحبكة" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1451">
+		<text>أعتقد أني كسرت صيامي على بصل بعد 6 سنوات قضيتها بعيداً عن الروايات</text>
+		<aspectTerms>
+			<aspectTerm term="بصل" polarity="negative" from="25" to="28"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1453">
+		<text>وصول بعض المقالات إلى مستوى متدني وأجدها لاتتناسب مع بعض المقالات الأخرى والمدح الذي يمتلئ به الكتاب أفقده عفويته</text>
+		<aspectTerms>
+			<aspectTerm term="المقالات" polarity="negative" from="9" to="17"/>
+			<aspectTerm term="المدح" polarity="negative" from="74" to="79"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الحبكة" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1454">
+		<text>بقية الرواية فهي كما وصفها هو بكائية نجمة لديار ونجمة للاقتباسات لا انصح بقراءتها ابدا مع ان لغتها عذبة</text>
+		<aspectTerms>
+			<aspectTerm term="نجمة" polarity="negative" from="37" to="41"/>
+			<aspectTerm term="نجمة" polarity="negative" from="49" to="53"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="التقييم" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1455">
+		<text>من اسوأ الكتب اللى قرأتها في حياتى</text>
+		<aspectTerms>
+			<aspectTerm term="الكتب" polarity="negative" from="8" to="13"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1456">
+		<text>حشاشين قرارية و يساريين و هيصة</text>
+		<aspectTerms>
+			<aspectTerm term="يساريين" polarity="negative" from="16" to="23"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1457">
+		<text>يعيب الكتاب أنه طويل جداً كان بالإمكان اختصاره إلى النصف تقريباً</text>
+		<aspectTerms>
+			<aspectTerm term="الكتاب" polarity="negative" from="5" to="11"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السلبيات" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1458">
+		<text>قرأت الرواية بامال كبيرة بعد توصيات عديدة و كانت فعلا تستحق الوقت و التوصيات . لكن ما يعيبها هي هجرة البطل لماذا الاصرار على الهجرة في جميع روايات المؤلف</text>
+		<aspectTerms>
+			<aspectTerm term="الهجرة" polarity="negative" from="125" to="131"/>
+			<aspectTerm term="روايات" polarity="negative" from="140" to="146"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السلبيات" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1459">
+		<text>الكتاب عبارة عن مجموعة من المقالات عن اعداء النجاح الكتاب برأي كتب بطريقة فلسفية رتيبه لم تعجبني قد يكون السبب فيني انا انصحكم بقراءته</text>
+		<aspectTerms>
+			<aspectTerm term="المقالات" polarity="negative" from="26" to="34"/>
+			<aspectTerm term="طريقة" polarity="negative" from="68" to="73"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الحبكة" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1461">
+		<text>لم اكمل الكتاب , اولاً لأن الخواطر ساذجة , منزوعة الابداع , ثانياً انه يربط كل شىء بالدين , ثالثاً ان الخواطر تلك تشبه العبارات التي تُكتب على ورق التقويم</text>
+		<aspectTerms>
+			<aspectTerm term="الدين" polarity="negative" from="84" to="89"/>
+			<aspectTerm term="العبارات" polarity="negative" from="119" to="127"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الحبكة" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1463">
+		<text>الرواية عبارة عن بيت دعارة مُصَوّر في كتاب</text>
+		<aspectTerms>
+			<aspectTerm term="الرواية" polarity="negative" from="0" to="7"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1464">
+		<text>من الممكن ان يتم تصنيفه تحت مسمى قصص جنسية رخيصة بعدما قرأت الكتاب أُصِبت بحالة من الغثيان</text>
+		<aspectTerms>
+			<aspectTerm term="قصص جنسية" polarity="negative" from="33" to="42"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الحبكة" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1465">
+		<text>الكتاب عبارة عن لغة رصينة متشابكة الكلمات بدون مغزى او قصة او رواية , هي سرد تاريخي متداخل الأحداث</text>
+		<aspectTerms>
+			<aspectTerm term="الكلمات" polarity="negative" from="34" to="41"/>
+			<aspectTerm term="الأحداث" polarity="negative" from="91" to="98"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السلبيات" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1466">
+		<text>كان من الممكن للكاتب أن يوصِّل فكرته بدون هذا الكم من القاذورات</text>
+		<aspectTerms>
+			<aspectTerm term="القاذورات" polarity="negative" from="54" to="63"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1467">
+		<text>ولكنّي وجدتُ بأنّ الأفكار (المحرّمة) تنهالُ على رأسي ما إن قرأت تلك الصّفحات</text>
+		<aspectTerms>
+			<aspectTerm term="الأفكار" polarity="negative" from="18" to="25"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السلبيات" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1468">
+		<text>وفي النهاية حفظ القضايا ضد مجهول أسلوب توفيق الحكيم يدعو للضحك على سخرية الواقع</text>
+		<aspectTerms>
+			<aspectTerm term="النهاية" polarity="negative" from="4" to="11"/>
+			<aspectTerm term="القضايا" polarity="negative" from="16" to="23"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الخاتمة" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1472">
+		<text>خطأت في تقييمي الاول اعترف احتاج مني الامر فترة وخبرة حتى اراها ثانية كل ما فيها ان اسلوب كاتبها يجذبك لا شئ اخر عرفت قديما ان غرض الادب الارتقاء بالقارئ وارى ان جزء من مهمة الكتاب اي يترك في شئ لم تترك هذه الرواية شئ لا شئ على الاطلاق بعد ان تغلقها ستكتشف انك لم تستفد شئ كما انني الان لا اجد اي سبب للتفاصيل الحميمية التي حشرها الكاتب فيها</text>
+		<aspectTerms>
+			<aspectTerm term="اسلوب" polarity="negative" from="84" to="89"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1473">
+		<text>لو اخذنا لاكتاب كوسيلة لتقييم ما آل اليه ما يطلق عليه مجازا التعليم المصري فسيفيدنا كثيرا عدا ذلك فهو محاولة بائسة للسخرية من واقع محتوم على كل شباب هذا الوطن فالكاتب قضى 17 عاما في هذا النظان وغيره في عامه الثامن عشر ولم يستكفي منه النظام الى الآن لم يعجبني الكتاب وفي احيان كنت اعده وسيلة للقضاء على ما تبقي من اخلاق او مبادئ لدى الطالب المصري  ان كان هناك شئ متبقي بحجة مشي حالك ومتطلعش منها خسران</text>
+		<aspectTerms>
+			<aspectTerm term="الكتاب" polarity="negative" from="259" to="265"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="التقييم" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1474">
+		<text>لا اعتبرها رواية من الممكن ان تكون مذكرات او رسالة طوسلة الى حبيب غادر اسلوبها جيد بالسرد واستطاعت ان تروي الم بطلتها وتجبرني على التعاطف رغم غضبي وحنقي عليها لم استسلمت واذلت نفسها كل هذا اعتقد ان عنوان كتابها مناسب للقصة</text>
+		<aspectTerms>
+			<aspectTerm term="رواية" polarity="negative" from="11" to="16"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1475">
+		<text>الكتاب مش ممتع ومش فلسفي فلسفته سطحية جدا والغالب او ما لفت نظري من اول صفحات هو ان الكاتب عنده مشكلة مع المرأة</text>
+		<aspectTerms>
+			<aspectTerm term="الكتاب" polarity="negative" from="0" to="6"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="التقييم" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1476">
+		<text>وقاحة الكاتب في هذه النقطة لا تغتفر ما يثير الاستياء ايضا استهزاء الكاتب بالشهداء و منفذي العمليات الاستشهادية اضف الى ذلك استهزاءه بكل ما يتعلق بالدين من صلاة و اذان و جهاد و غيره</text>
+		<aspectTerms>
+			<aspectTerm term="الكاتب" polarity="negative" from="6" to="12"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المؤلف" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1477">
+		<text>من الكتب المخيبة للامال و التي خدعت بعنوانها فانا لا اعرف الكاتب الا من خلال هذه الرواية و حتما ان رأيت كتبا اخرى من تأليفه سأتظاهر بالعمى و يبدو ان جائزة البوكر العربي جائزة مسيسة بامتياز و ليست ادبية بحتة</text>
+		<aspectTerms>
+			<aspectTerm term="الرواية" polarity="negative" from="81" to="88"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="التقييم" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1478">
+		<text>انهيت قراءة الرواية بعد جهد جهيد و لا ادري اصلا ان كانت تستحق لقب رواية فهي لا تعدو عن كونها سيرة داتية هشة في محاولة يائسة لتحويلها الى رواية فكانت النتيجة انها لم تكن رواية و لم تستكمل عناصر السيرة الذاتية</text>
+		<aspectTerms>
+			<aspectTerm term="سيرة داتية" polarity="negative" from="93" to="103"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1480">
+		<text>بدءا من التفاصيل المملة غير ذات المعنى او الغرض ، و مرورا بالشخصيات الباهتة السطحية و خصوصا بطلة القصة مارية و النبطي الذي سميت باسمه الرواية دون ان نجد سببا لذلك .و لو سميت عميرو كان افضل لحضوره الغني و اللطيف على عكس النبطي الهائم على وجهه و انتهاء بسرده لانتشار الاسلام بحد السيف و ترويع الاقوام الامنة دون الدخول بتفاصيل.لا انصح بقراءتها نهائيا</text>
+		<aspectTerms>
+			<aspectTerm term="التفاصيل" polarity="negative" from="8" to="16"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1481">
+		<text>لست من المعجبين بكتابات يوسف زيدان منذ البدء ، ابتداء من عزازيل التي ثقلت على قلبي لدرجة عدم اكمالها و مرورا بظل الافعى و انتهاء بالنبطي و التي قرأتها لاحسن علاقتي مع كتابات زيدان و لكنها قطعت الشك لدي باليقين باني لا استسيغ ما يكتب</text>
+		<aspectTerms>
+			<aspectTerm term="يوسف زيدان" polarity="negative" from="24" to="34"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المؤلف" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1482">
+		<text>لا أريد أن أكون متجني على الكاتب لأن لديه مؤشرات إبداع لكنه لم لا يملك الخبرة الكافية بعد لا أنكر إنها مشوقة جدًا وتقرأ على دفعة واحدة</text>
+		<aspectTerms>
+			<aspectTerm term="الكاتب" polarity="negative" from="26" to="32"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المؤلف" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1483">
+		<text>الرواية ممكن أن تروق للقارئ المبتدئ لكن صعب أن تنال استحسان القارئ المتمرس أتمنى أن اقرأ له رواية أفضل منها بكثير واتوقع أن يكون هذا قريبا</text>
+		<aspectTerms>
+			<aspectTerm term="الرواية" polarity="negative" from="0" to="7"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="التقييم" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1484">
+		<text>رواية غير ناضجة، أو بالأحرى نص لا يستحق النشر هي مجرد محاولة الحبكة ضعيفة</text>
+		<aspectTerms>
+			<aspectTerm term="الحبكة" polarity="negative" from="61" to="67"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الحبكة" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="737">
+		<text>كتاب أخذني إلى جذور وحقائق المسأله الصهيونيه النازيه تلك التي كانت مبهمة ولم تكن معالمها واضحه بالنسبة لي فكان عندي مجموعة من المعلومات البسيطه والغير دقيقه أيضا. لا أظن بأنني سأكتفي بقراءة هذا الكتاب مره واحده فقط على الرغم من حرصي على التلخيص إلا أني سأعاود قراءة الكتاب بإذن الله</text>
+		<aspectTerms>
+			<aspectTerm term="كتاب" polarity="neutral" from="0" to="4"/>
+			<aspectTerm term="المعلومات" polarity="positive" from="126" to="135"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="740">
+		<text>هذا الكتاب هو إحدى الكتب التي أمسكت بيدي وهدأ غضبي وأفهمني كثيرا من سنن الحياة التي عجز الكثير من الناس إيصالها لنا</text>
+		<aspectTerms>
+			<aspectTerm term="الكتاب" polarity="positive" from="4" to="10"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المشاعر" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="741">
+		<text>سيرة الرسول صلى الله عليه وسلم من أروع الكتب التي قرأتها , أعجبني فيها تسلسل الأحداث وتبسيط المعاني فيه , حينما قرأته فكرت كثيراً بأوائل المسلمين كيف كانوا يتمسكون بعقيدتهم ويؤمنون بها كانت مبادئهم قوية ثابتة قرأت عن الرسول صلى الله عليه وسلم المعلم الأول القائد المحنك يتحدث عن حكمته في التعامل مع الأحداث مرونته صلى الله عليه وسلم في التعامل مع المشركين , عشت معه أجواء جميله وددت لو لمن ينتهي الكتاب كنت أبكي في مقاطع منه لشعوري بأني مقصرة تجاه ديني , مقابل تضحياتهم الكثيرة تقسيم الكتاب كان بتسلسل الأحداث أولاً القبائل العربية ونشأتها , حياة الرسول صلى الله عليه وسلم قبل نزول الوحي منذ طفولته إلى شبابه العلامات والدلائل على نبوته التي سبقت نزول الوحي , زواجه بخديجة نزول الوحي عليه , الدعوة السرية و الجهرية مضايقات قريش له وللمسلمين , الهجرة إلى الحبشة , مؤامرات قريش وهجرته صلى الله عليه وسلم للمدينة المنورة البيعات والغزوات تحدث عن إسلام أشهر الصحابة وصلح الحديبية وفتح مكة.</text>
+		<aspectTerms>
+			<aspectTerm term="الكتب" polarity="positive" from="39" to="44"/>
+			<aspectTerm term="تسلسل الأحداث" polarity="positive" from="71" to="84"/>
+			<aspectTerm term="المعاني" polarity="positive" from="92" to="99"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="742">
+		<text>حجة الوداع و وفاة الحبيب المصطفى صلى الله عليه وسلم , بكيت كثيراً في حجة الوداع لا أعلم لماذا لكن ( نفسي أشوف الرسول صلى الله عليه وسلم ) , عموماً الكتاب يتحدث عن شخصية القائد لدى الرسول صلى الله عليه وسلم أما معاملته مع زوجاته والصحابة فقليل جداً المواقف المذكورة , كتاب يستحق القراءة وضعته في مكان قريب مني لأعود إليه كثيراً  النسخة اللي عندي إلكترونية .</text>
+		<aspectTerms>
+			<aspectTerm term="كتاب" polarity="positive" from="149" to="153"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="745">
+		<text>تحكي قصة منظمة سرية يقتل قائدها بظروف غامضة ويترك لحفيدتة إسم شخص ولغز يقودهما (هي والشخص دا) لسر منظمة والقاتل هي لغز كبير وممتع</text>
+		<aspectTerms>
+			<aspectTerm term="قصة" polarity="neutral" from="5" to="8"/>
+			<aspectTerm term="ظروف" polarity="negative" from="33" to="37"/>
+			<aspectTerm term="لغز" polarity="positive" from="67" to="70"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="747">
+		<text>لزمن الغائب الحاضر مثل ضباب خفيف حولك تدور به في عزلتك يشاركك المكان لكنها مشاركه  شفافه  , هي حكاية للجدات يستمتعن بروئية حدقات الأطفال معلقة فوق روؤسهن تصدق الخيال وتستبعد الواقع وربما صنعوا من الخيال والواقع قصصهم الخاصه بهم بعد أن يخلدوا للفراش ينما يتسرب النوم لهم بهدوووء , أوه صدداع ثقيل حينما تخيلت مرض الأرق الذي أصاب القرية كلللها كيف للأضواء أن تكف عن الإنطفاء وتبقى معلقه في الفراغ كما هي عيون القرية بأكملها , نحن نقرأها من أجل الدهشة فقط طبعاً للجميله هذه خمس نجمات على طول , خرافية جد</text>
+		<aspectTerms>
+			<aspectTerm term="حكاية" polarity="neutral" from="95" to="100"/>
+			<aspectTerm term="خمس نجمات" polarity="positive" from="470" to="479"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="748">
+		<text>ممممم رواية تحكي تجربة فتاة في عالم المثيليين , لم أستطع حتى الآن الحكم عليها ففي ذات الوقت اللتي أشعر بتقزز تجاه الكاتبة أثرت فيّ روايتها بشكل فضيع لم أفهم سببه صبا الحرز روائية قوية من وجهة نظري لولا أنها طرقت باباً جعل بيني وبين إسمها كثيراً من الحذر والحواجز التي تشعرني بالوقوع بين شعورين من الغريب بأن يجتمعا في ذات الوقت لكن وبقدرتها اللغوية هذه أتوقع أنها كانت تستطيع الكتابة دون الإنزلاق لهذه الدرجة من الجرأة التي تعد عيب أكثر منه ميزة في مؤلفها , حتى الحديث عن ذات الموضوع الذي تطرقت إليه كانت تستطيع فعل ذلك دون الدخول في متاهات تحسب ضدها وتطغى على روايتها من نواحي عدة منها الصدق والجرأة والبناء اللغوي والتسلسلي  إحترت كثيراً في تقيم الرواية أشعر أنها تستحق مني 5 نجوم لوصفها لمشاعر داخلية بطريقة إخترقتني ونجمة واحدة للمنزلق المقزز الذي إنزلقت إليه</text>
+		<aspectTerms>
+			<aspectTerm term="رواية" polarity="neutral" from="6" to="11"/>
+			<aspectTerm term="الكاتبة" polarity="negative" from="114" to="121"/>
+			<aspectTerm term="روائية" polarity="positive" from="172" to="178"/>
+			<aspectTerm term="الجرأة" polarity="negative" from="412" to="418"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="التقييم" polarity="conflict"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="751">
+		<text>فكرت في نصف الرواية بعد أن وضعت نفسي في مكان الآنسة بريم :  كم يؤلف الخير فينا وكم هي نسبة الشر ؟ تخيلت أن ذواتنا تشبه الهارديسك الذي نتفقد المساحات المملوءة به والفارغه حينما تظهر الدائرة المؤلفه لمساحته الكلية  لكن السؤال متروك طبعاً بلى إجابات , كما قلت هناك أختلاف في المقاييس والقناعات والظروف  هنا حكاية جميلة يقدم بها باولو كويلو درساً جديداً في قالب فلسفي الشخصيات والأحداث شيء ثانوي بعد الفكرة الأساسية كنت أفكر بالخير والشر أكثر من تفكيري بالشخصيات , وفي نهاية الأحداث نجدنا لاننفك نحسب : كم ؟ ولماذا ؟ وكيف</text>
+		<aspectTerms>
+			<aspectTerm term="حكاية" polarity="positive" from="304" to="309"/>
+			<aspectTerm term="الرواية" polarity="neutral" from="12" to="19"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="754">
+		<text>لغة هنا آسرة أتذكر أني حينما قرأتها في المرحلة الثانوية أحسست بشيء من السحر ولم أنساه</text>
+		<aspectTerms>
+			<aspectTerm term="لغة" polarity="positive" from="0" to="3"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المشاعر" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="755">
+		<text>رواية تقريباً تميل لأن تكون تاريخية . فلسفتها سلسة واقعية عصيان اسم بطلها . السليل العثماني .عاش أميراً تحت سيطرت أبيه مدة من الزمن كان والدة قد رسم له تصور مسبوق بأن يكون ثورياً بينما رغب هو بدراسة الطب .كان له من اسمه نصيب إذ مارس العصيان مرتين , وكان قراره فيهما نقطة تحول في حياته الأولى حينما (خرج من جلباب أبيه) ليكون (هو) ويحقق ذاته بسفره للدراسة في باريس كان كما يحلم وأختار حياته شارك في الثورة بملئ إرادته وصادف من أحبها من خلال الثورة , والثانية حينما قرر التمرد على سجنه الذي يعيش فيه حياةً كالأموات تماماً وقرر الخروج من المصح النفسي الذي حجزه فيه أخوه السافل كانت الرواية في بداياتها تنبئ عن أنه ثمة قهر أتٍ في الطريق في الفصول الأخيرة, تقمصت دور البطل وكنت أشعر المرارة التي يشعرها في مصحه النفسي, عشت تفاصيل الرواية بشكل قويّ في نهاياتها ولكن الخاتمة تقريباً أسعدتني ومحت, كل تأثيرات الجزء الأخير</text>
+		<aspectTerms>
+			<aspectTerm term="فلسفتها" polarity="positive" from="38" to="45"/>
+			<aspectTerm term="رواية" polarity="neutral" from="0" to="5"/>
+			<aspectTerm term="الرواية" polarity="neutral" from="578" to="585"/>
+			<aspectTerm term="تفاصيل الرواية" polarity="positive" from="717" to="731"/>
+			<aspectTerm term="الخاتمة" polarity="positive" from="759" to="766"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="756">
+		<text>يعجبني أسلوب أمين معلوف في السرد حتى عندما يتحدث عن التيه يقدمها لنا بطريقة مرتبة</text>
+		<aspectTerms>
+			<aspectTerm term="أسلوب" polarity="positive" from="7" to="12"/>
+			<aspectTerm term="السرد" polarity="positive" from="27" to="32"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المشاعر" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="761">
+		<text>نسيج السجادة هو المستوطنات عليها بعض النقوش متناثرة هنا و هناك هي كل ما تبقى لنا من فلسطين رأيت رام الله  لم تغرق في عاطفتها بدون أن تشير إلى الأخطاء العاطفة واقعية إن صح لي القول رغم أنها بسيطة إلا أن في اللغة عمق جارح تركض الأحداث ذهابا و إيابا على خط الزمن لكنها تبقى في الحاضر لانتظر للمستقبل أبدا ربما لأن الكاتب أعتاد على عيش اللحظة التي لا يعرف قادمها وكذلك كل شخوص الرواية, لم تنظر للمستقبل تركتها للقدر يعبث أو يعيد ترتيب الأشيا</text>
+		<aspectTerms>
+			<aspectTerm term="الكاتب" polarity="positive" from="311" to="317"/>
+			<aspectTerm term="الأحداث" polarity="positive" from="225" to="232"/>
+			<aspectTerm term="الزمن" polarity="neutral" from="254" to="259"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الحبكة" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="763">
+		<text>الميزة الوحيدة اللازمة لكي يصبح الإنسان فيلسوفاً جيداً هي قدرتة على الدهشة  ليس تماماً السؤال أكون أو لا أكون ؟ بل يجب أن نتسائل عما نحن ؟ هل نحن كائنات بشرية حقيقية من لحم ودم ؟ هل عالمنا مؤلف من أشياء حقيقية ؟ أم أننا محاطون فقط في الضمير ؟ كيف لنا أن نتأكد من أن الحياة ليست حلماً ؟  جوستاين غاردر رأيي الشخصي : هل خطر ببال أحدكم يوماً انه لم يكن إلا شخصية خيالية في رواية أو مجرد كائن وهمي في خيال أحدهم ؟ هل فكر أحدكم انه سيحصل وتخرج كائناته الورقية لتنتقم منه لأنه تلاعب بها في خيالة وأبتدع لها حياة بائسة أو مثيرة ؟ لأول مرة أقضي مايقارب الأسبوعين لقرآة كتاب واحد ,ليس لأن شهيتي للقرآءة ضعيفه بل في أوج قوتها لكن في وقت ما أنا متشوقه لإلتهام المزيد أتوقف لأنني بدأت أفكر فيما قرأت</text>
+		<aspectTerms>
+			<aspectTerm term="الدهشة" polarity="positive" from="68" to="74"/>
+			<aspectTerm term="الضمير" polarity="positive" from="234" to="240"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المزايا" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="764">
+		<text>طريقة الكاتب في السرد أخذت الكثير من مهنتة كأستاذ للفلسفة والفكر ,لذلك إتخذ أسلوب الشرح من معلم لتلميذة وهي صوفي إمندسون , كنت أنتقل من فصل لفصل أعبر تاريخ الفلسفة بدهشة وفضول لأعرف المزيد وفي كل فصل أتوقف لأقول أها صوفي وألبرتو هما الخيال في هذة الحكاية ثم أخرج من فصل آخر لأتأكد بأن هيلد هي ملاك كما قال ألبرتو وأن المايجور ساحر لأدخل في فصل جديد وأكتشف بأن كل محاولاتي السابقة فاشلة ولاتزال القصة مجهولة وفي النهاية تنبهت لأن كل هذا من خيال جوستاين غاردر وأنني أضياً وقعت ضحية مؤآمرة هذا الكاتب على قرآءة هي مدهشة فعلاً , حاولت أكثر من مرة أن أختصر بعض ما قرأته عن تاريخ الفلسفة هنا لكن الفلسفة لاتختصر أبدأ , الكتاب ناقش أفكار الفلاسفة السابقين في عصور ماقبل الميلاد وبعض الجماعات الفلسفية التي ظهرت في أوقات مختلفه لم أنسجم مع فصول فلاسفة الطبيعة وأفلاطون وديمقريطس وسقراط بقدر إنسجامي مع حديثة عن الأساطير وعن العلماء والفلاسفة مثل : ديكارت ,سيبونزا ,لوك, هيوم ,كانت,هيغل ,ماركس ,دوروين وخصوصاً الحديث عن فرودي والعقل اللاواع</text>
+		<aspectTerms>
+			<aspectTerm term="السرد" polarity="positive" from="16" to="21"/>
+			<aspectTerm term="فلسفة" polarity="positive" from="52" to="57"/>
+			<aspectTerm term="الفكر" polarity="positive" from="59" to="64"/>
+			<aspectTerm term="الشرح" polarity="positive" from="82" to="87"/>
+			<aspectTerm term="الخيال" polarity="negative" from="233" to="239"/>
+			<aspectTerm term="الفلسفة" polarity="positive" from="156" to="163"/>
+			<aspectTerm term="العلماء" polarity="positive" from="816" to="823"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="765">
+		<text>فهمت بشكل أكبر قانون نيوتن في الجاذبية بعض الملاحظات أعجابي بالكتاب وعلى قدرة جوستاين غاردر على تبسيط المعاني والمفاهيم الفلسفية لا ينفي تبرأيي من تلك الأفكار التي تحدثت بشك عن وجود الله أو القدر أو أي فكرة تعتبر من المُسَلمَات لنا نحن المسلمين وأيضاً حينما شبه بعض الفلاسفة الفنانين بالله في خلق شيء من العدم تعالى الله عما قيل هنا . لاحظة أنه حينما تحدث عن علماء أوربا أنصف إلى حدٍ ما العلماء المسلمين والعرب حينما عرج على ذكرهم في حديثة مثل أبن خلدون بصفتة مؤسس علم الإجتماع الأول وغير</text>
+		<aspectTerms>
+			<aspectTerm term="المعاني" polarity="positive" from="102" to="109"/>
+			<aspectTerm term="المفاهيم" polarity="positive" from="111" to="119"/>
+			<aspectTerm term="الكتاب" polarity="positive" from="61" to="67"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المشاعر" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="768">
+		<text>في خط زمن مذهل متى يقف ومتى ينتقل لحدث آخر . حتى في ثرثرة الشخصيات أحسست في بعض النقاط أنها كناية عن زمن متكرر لا ينتهي من إعادة نفسه بملل, أحسست أن التفاصيل الكثيرة والثرثرة جزء من خطة رضوى مع الرواية, وإن كانت في نظر من ناقشت معهن الرواية هي مجرد إضافة لا داعي لها. فترة حرجة من التاريخ الإسلامي العربي الأندلسي , فترة الضعف السقوط الحصار . كلها والثوار يشكلون أملا ترسله الجبال مرات استبشار الأهالي رغم ما يعيشون, أحببت كيف يظهر في لحظات, ليخفف علينا غصة رافقتني . رغم أنني اعرف التاريخ كنت بطريقة مثيرة للشفقة أنتظر أن تقول رضوى عاشور بأن الثوار انتصروا وعادت الأندلس مسلمة عربية. الأندلس غرناطة البيازين . إلخ تاريخ وحكاية لا نمل تكرارها مئات السنين تبعت بعضها وانقضت ولازالت حكاية الرثاء الكبيرة التي نعيد ترديدها ولم تجف حتى اليوم الجفون التي تبكي سقوطها المر</text>
+		<aspectTerms>
+			<aspectTerm term="ملل" polarity="negative" from="135" to="138"/>
+			<aspectTerm term="التفاصيل" polarity="positive" from="149" to="157"/>
+			<aspectTerm term="الثرثرة" polarity="negative" from="167" to="174"/>
+			<aspectTerm term="التاريخ الإسلامي" polarity="negative" from="281" to="297"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="769">
+		<text>راوي قرطبة روايه لا تأخذ منحى الروايه الشخصية فهي لا تقتصر على حياة العامه ولكن كما عنونت فالراوي هنا يرث عن جده مهنة تسجيل التاريخ والأحداث كأخبار السلاطين والفاتحين فيبدأ راوينا بالتسجيل منذ أن كان فتى في عمر العشر سنوات حيث كان ذلك في عهد الحكم المستنصر بالله والفترة العامريه امتاز المؤلف بتسجيل تفاصيل التفاصيل وهذا ما يجر الملل أحيانا إن لم يكن الموضوع المفصل يهمك كتفاصيل الطعام أو البنيان. كنت في البداية أنجرف من دوامة الملل بسبب التفصيل فكان يفصل أحيانا في حديثه عن الحكام وأخبارهم وجهلي بهم هو سبب الملل لكن الحل هو التعرف عليهم عن طريق مصادر أخرى أو احرص على تجاوز التفصيل الغير مهم حتى لا تتوقف عن القراءة وتخسر هذه الرائعة الرائع أيضا أنك تعيش معه أجواء ابن قرطبة فالاشاعات المتداولة تصل إلى مسامعك حتى تبلغ بك المجالس والأحاديث إلى اخبار الممالك النصرانية وحكامها أيضا تنوع الأشخاص الذين يقابلهم الراوي وكثرتهم واختلاف مذاهبهم أيضا لها نكهه خاصه فمناقشتة لجده وأبيه منذ أن كان فتى مرورا بكل من مر بهم سواء في الأندلس أو صقلية وبلاد الفرنجة ومصر جعلت للرواية عنصرا مشوقا وجاذبا أذهلتني قدرته على جمع كل هذه التفاصيل الداخلية والخارجية أيضا عمل متكامل</text>
+		<aspectTerms>
+			<aspectTerm term="الروايه" polarity="positive" from="30" to="37"/>
+			<aspectTerm term="التاريخ" polarity="positive" from="124" to="131"/>
+			<aspectTerm term="الأحداث" polarity="positive" from="133" to="140"/>
+			<aspectTerm term="للرواية" polarity="positive" from="965" to="972"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الحبكة" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="770">
+		<text>لم يصادف وأن قرأت عمل يحمل كل هذا الكم من الروعة فيكفيني دخولي إلى الزهراء. فإن عشقت الأندلس فحري بك قراءة هذه الرائعه ولا أنسى ما كتب في غلافها حين تطالع هذه الرواية ستقترب من معرفة ما تؤول إليه أوضاعنا إذن هذه دعوة أخرى لقراءة هذه الرائعة لطالما تمنيت أعملا عربية على هذه الشاكلة فتاريخنا لا يستهان ويستحق أعمالا إبداعية</text>
+		<aspectTerms>
+			<aspectTerm term="الروعة" polarity="positive" from="42" to="48"/>
+			<aspectTerm term="الرواية" polarity="positive" from="159" to="166"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الحبكة" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="771">
+		<text>نعود لغادة وكتابها الجميل الأنيق الوااااااضح رسالتك جميلة غادة وكل كلامك ( حكم ) خمسة نجوم بدون تفكير</text>
+		<aspectTerms>
+			<aspectTerm term="كتابها" polarity="positive" from="12" to="18"/>
+			<aspectTerm term="رسالتك" polarity="positive" from="45" to="51"/>
+			<aspectTerm term="خمسة نجوم" polarity="positive" from="81" to="90"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="774">
+		<text>الرواية هذه رساله كبيره لكل الشباب والشابات بحجم الضحك في بداية الحكاية كان بكاي على المأساة التي وصل إليها صلاح من جراء إدمانه ( الرواية واقعيه تحكى على لسان صلاح ) أعجبني الأسلوب الشبابي البسيط وفيه نقطة ذكية تسجل للكاتب أنه بدأ الرواية وشرح بالتفصيل كيف أن الحياة لكل المستهترين في البداية جميله وبسيطه وسهله لكن كل ذلك هو هدوء ما قبل العاصفه التي لن تكون مؤذيه للمدمن المستهتر فقط وإنما لكل من يعرفهم لعائلته ولأصدقائه وبالتالي للمجتمع ,  عمل يحكي تجربه إنسانيه بكل مافيها من مأساة بطريقة صادقه جداً إستفدت جداً من هذا الكتاب , الله يبعد عن كل شباب المسلمين والعالم خطر المخدرات ويجملهم بالصحه والعافيه أكثر من عشره نجوم</text>
+		<aspectTerms>
+			<aspectTerm term="رساله" polarity="positive" from="12" to="17"/>
+			<aspectTerm term="الرواية" polarity="neutral" from="0" to="7"/>
+			<aspectTerm term="الأسلوب الشبابي" polarity="positive" from="173" to="188"/>
+			<aspectTerm term="الحياة" polarity="positive" from="260" to="266"/>
+			<aspectTerm term="الكتاب" polarity="positive" from="523" to="529"/>
+			<aspectTerm term="عشره نجوم" polarity="positive" from="615" to="624"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المزايا" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="775">
+		<text>كما أقول دائما أحب أن أسمع الطنطاوي يتحدث, صوته يذكرني بفطور رمضان, لكن القراءة له ليست بمستوى متعة مشاهدته, الحكمة والهدوء موجودة بين صفحاته لكن ربما طلته التي أتذكرها تقف بيني وبين تقبل القراءة له, كتبه قديمة جدا في مكتبتي لكنني هذا العام أحببت قراءة كل ما جمعته وبقيت وقتا طويلا تنتظر دوره</text>
+		<aspectTerms>
+			<aspectTerm term="القراءة" polarity="positive" from="72" to="79"/>
+			<aspectTerm term="الحكمة" polarity="positive" from="109" to="115"/>
+			<aspectTerm term="الهدوء" polarity="positive" from="117" to="123"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="783">
+		<text>عجبني القسم الأخير الذي جمع كائنات حية مختلفة عنصر التشابه بينها أنها تسكن القرى وأعجبني الوصف الذي أوضح كيف هي العلاقات المتجانسة مع الكائنات التي تجد نفسها مجبرة للتعامل مع غيرها من الأجناس الأخرى , في النهايات كانت الصحراء  أم قاسية  تحمل بداخلها كمٌ من الخيرات , وتحمل فوقها قرى وكائنات مختلفة وراعٍ يرقب قطيعة على طرف أحد الجبال بصمت لكنه حينما يتحدث يقول كل ما يريد بنايّ نحيل ويبكي به أيضا قراءة أولى</text>
+		<aspectTerms>
+			<aspectTerm term="القسم الأخير" polarity="positive" from="6" to="18"/>
+			<aspectTerm term="الوصف" polarity="positive" from="89" to="94"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الخاتمة" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="807">
+		<text>كثيراً من أسباب النجاح آتية من إستلهام اللاشعور والإصغاء إلى وحيه الآني إذا تعجل المرء أمراً وأراده وأجهد نفسه في سبيله قمع بذلك وحي اللاشعور وسار في طريق الفشل</text>
+		<aspectTerms>
+			<aspectTerm term="النجاح" polarity="positive" from="16" to="22"/>
+			<aspectTerm term="طريق الفشل" polarity="negative" from="150" to="160"/>
+			<aspectTerm term="إستلهام اللاشعور" polarity="positive" from="31" to="47"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="808">
+		<text>القراءة مثل التنفس إنها وظيفة حياتية أساسية يتحدث ألبيرتو مانغويل عن تاريخه مع القراءة وتاريخ القراءة ذاته محاولا وصف العلاقة مع الكتاب من وجهة نظره كقارئ, معلومات الكتاب كثيرة</text>
+		<aspectTerms>
+			<aspectTerm term="القراءة" polarity="positive" from="0" to="7"/>
+			<aspectTerm term="تاريخ القراءة" polarity="positive" from="88" to="101"/>
+			<aspectTerm term="معلومات" polarity="positive" from="156" to="163"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="809">
+		<text>كل من أحب القراءة مرّ بذات المشاعر وربما عبر عنا مانغويل في كتابه, في كل ما أقتبسه نجد أننا نبتسم ونقول  نعم هذا صحيح أنا أفهمك, بدأ لدي الشغف بالكتاب, قبل تعلمي للقراءة في الروضة كنت أقضي وقتا كبيرا أقلب القصص المصورة وأحاول أن أستخرج الحروف التي تعلمتها, كنت أقرأ بطريقتي الخاصة فقصتي كانت في أي كتاب كالتالي : س م ب ع ن خ ت, وهي بالترتيب أول حرف من اسم والدتي وحرف الميم الأول من اسم والدي وحرفي وحرف شقيقي وحرف الباء حرف شقيقتي النون والخاء والتاء أول حروف أسماء أصدقاء الروضة</text>
+		<aspectTerms>
+			<aspectTerm term="المشاعر" polarity="positive" from="27" to="34"/>
+			<aspectTerm term="الشغف" polarity="positive" from="137" to="142"/>
+			<aspectTerm term="القراءة" polarity="positive" from="10" to="17"/>
+			<aspectTerm term="القصص المصورة" polarity="positive" from="205" to="218"/>
+			<aspectTerm term="الحروف" polarity="positive" from="236" to="242"/>
+			<aspectTerm term="أصدقاء الروضة" polarity="positive" from="467" to="480"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="810">
+		<text>كنت أنسج الكثير من القصص لخيالي وأحكيها لخالد صديقي في الروضة الذي تساءلت خلال كتابتي لهذه القصة هل يتذكرني الآن؟ وهل يتذكر قصصي المختلقة التي لا تتكرر كل مرة أمسك بالكتاب لأحكي لهم</text>
+		<aspectTerms>
+			<aspectTerm term="القصص" polarity="positive" from="19" to="24"/>
+			<aspectTerm term="الكتاب" polarity="positive" from="165" to="171"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="811">
+		<text>لا أتذكر أن الحروف كانت تعني لي شيئا بجانب الصور كانت مجرد أشكال, وهي بدايات لأسماء العالم, واعتقدت وقتها بأنهم وضعوها ليتعرف كل الأطفال على أول الحروف بـ أسماء والديهم وأشقاءهم</text>
+		<aspectTerms>
+			<aspectTerm term="الحروف" polarity="positive" from="12" to="18"/>
+			<aspectTerm term="الصور" polarity="positive" from="43" to="48"/>
+			<aspectTerm term="أشكال" polarity="positive" from="59" to="64"/>
+			<aspectTerm term="الأطفال" polarity="positive" from="129" to="136"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="814">
+		<text>كان تحمسي مفرطا إلى درجة أنني كنت أظن سأصبح إنسانة غير سعيدة إن لم أعثر دوما على كتاب جديد أقرأه بعد أن فكيت الحرف مرت علي مرحلة الابتدائي كاملة وأنا متعطشة بشكل كبير للقراءة لكن لم أجد أبدا كتاب مناسب لخيالي أستطيع قراءته بسعادة, وكنت مبتدئة باللغة الإنجليزية ففضلت أن تكون هذه المرحلة لقراءة الكلمات الانجليزية اشتريت قصص أطفال باللغة الإنجليزية وأعدت مرحلة الحروف وتركيب الكلمات وكنت أسعد بذلك</text>
+		<aspectTerms>
+			<aspectTerm term="كتاب" polarity="positive" from="81" to="85"/>
+			<aspectTerm term="مرحلة الابتدائي" polarity="negative" from="123" to="138"/>
+			<aspectTerm term="قصص أطفال" polarity="positive" from="320" to="329"/>
+			<aspectTerm term="تركيب الكلمات" polarity="positive" from="368" to="381"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="815">
+		<text>بدأت المرحلة المتوسطة بكتب لأغاثا كريستي قرأت أكثر من 16 كتاب في المرحلة الأولى وكان هذا العدد كبير جدا على طالبة مجتهدة تقضي نصف يومها تذاكر دروسها وتكمل تعليم اللغة الإنجليزية بشكل ذاتي كنت أحب تعليم نفسي وفك رموز الحروف الجديدة, وانتقلت بعدها لقراءة ماجدولين المنفلوطي وغادة السمّان و مسرحيات شكسبير كان تدرجي في القراءة غريب أقفز من نقطة لأخرى بنهم لا يعرف كيف ينتظم</text>
+		<aspectTerms>
+			<aspectTerm term="كتاب" polarity="positive" from="57" to="61"/>
+			<aspectTerm term="طالبة" polarity="positive" from="108" to="113"/>
+			<aspectTerm term="شكل ذاتي" polarity="positive" from="179" to="187"/>
+			<aspectTerm term="رموز الحروف" polarity="positive" from="211" to="222"/>
+			<aspectTerm term="القراءة" polarity="positive" from="316" to="323"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الحبكة" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="816">
+		<text>من طقوسي قبل بداية كل كتاب أقسم عدد صفحاته على الأيام التي أخصصها له ونقاط التوقف التي أحددها تكون قانون مقدس بالنسبة لي إذا فشلت يوم واحد في الوصول إليه أشعر بأن مزاجي يرتبك ولا أستطيع أن أكمل القراءة بشكل منتظم وقد أترك الكتاب لغيره حتى أتصالح مع نفسي وهذا نوع من العقاب الذاتي لأنني لم أنتظم بالخطة ,</text>
+		<aspectTerms>
+			<aspectTerm term="كتاب" polarity="neutral" from="22" to="26"/>
+			<aspectTerm term="القراءة" polarity="negative" from="194" to="201"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="817">
+		<text>غير أن القراءة في الفراش تعتبر أكثر من مجرد تمضية للوقت, إنها تمثل نوعا من الوحدة. فالمرء يتراجع مركزا على ذاته, ويترك الجسد يرتاح, ويجعل من نفسه بعيدا لا يمكن الوصول إليه مخفيا عن العالم</text>
+		<aspectTerms>
+			<aspectTerm term="القراءة" polarity="neutral" from="7" to="14"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المزايا" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="818">
+		<text>ترتبط كثيرا في ذاكرتي الأماكن التي قرأت بها الكتاب حينما أتذكر أحد سطوره أتذكر المكان ليس لدي مكان محدد فكتابي في حقيبتي دائما, أقرأ في انتظار المستشفى, في انتظار صالون التجميل, في الكافي, أختار كل فترة أو مرحلة من عمري كافي معين للقراءة فيه , كنت أفضل ستاربكس (آيسلاند) , بعدها كوستا كوفي (في جرير مول) , بعدها أدمنت على القراءة في تيانا الكورنيش, وحاليا كليلة في الروضة  , وهناك أماكن أخرى قرأت بها خلال استراحتي في المولات أثناء التسوق أسترق صفحات من نصاب اليوم مع فنجان القهوة</text>
+		<aspectTerms>
+			<aspectTerm term="الكتاب" polarity="neutral" from="44" to="50"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاماكن" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="819">
+		<text>لو نقلت كل اقتباس أعجبني من الكتاب لوجدت بأنني أنقل لكم الـ384 صفحة كاملة لذلك فكرت لماذا لا أتحدث عن علاقتي أنا مع الكتاب عن تاريخي الخاص مع القراءة؟, لم أكتب يوما عن طقوسي أو علاقتي بالكتاب</text>
+		<aspectTerms>
+			<aspectTerm term="اقتباس" polarity="positive" from="11" to="17"/>
+			<aspectTerm term="الكتاب" polarity="positive" from="28" to="34"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الهوامش" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="820">
+		<text>ولا شيء أجمل من يوم أمارس به شيئان أحبهما التسوق والقراءة, وفي آخر اليوم يجب أن أبقي بعض الصفحات للقراءة في السرير خصوصا في أيام الشتاء بكوب النعناع بيدي والكتاب يرتاح أمامي كل قارئ يمر على سطوري هذه سيفهم معنى أن تختم يومك بما تحب</text>
+		<aspectTerms>
+			<aspectTerm term="التسوق" polarity="positive" from="42" to="48"/>
+			<aspectTerm term="القراءة" polarity="positive" from="50" to="57"/>
+			<aspectTerm term="الكتاب" polarity="positive" from="155" to="161"/>
+			<aspectTerm term="قارئ" polarity="positive" from="177" to="181"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="821">
+		<text>يصيبني حب التملك مع الكتب أي كتاب أقرأه فهو يحوي تاريخي ملاحظاتي اقتباسات مفضلة لحظاتي الخاصة, يحوي داخلة رحلتي سفري المفضل</text>
+		<aspectTerms>
+			<aspectTerm term="كتاب" polarity="positive" from="29" to="33"/>
+			<aspectTerm term="اقتباسات" polarity="positive" from="65" to="73"/>
+			<aspectTerm term="تاريخ" polarity="positive" from="49" to="54"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="822">
+		<text>لا أعير الكتب إلا في حالات نادرة مع توصيات كثيرة ولا أسمح لأحد أن يكتب على كتبي أو يحدد شيء</text>
+		<aspectTerms>
+			<aspectTerm term="توصيات" polarity="positive" from="36" to="42"/>
+			<aspectTerm term="الكتب" polarity="neutral" from="8" to="13"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الهوامش" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="825">
+		<text>من أكثر الأسئلة التي تستفز قارئة مثلي سؤال : أفضل كتاب بالنسبة لك أرد عليه بـأن أقول : هي كومة كتب وليست كتابا واحدا, حقيقة أجد صعوبة في تحديد كتاب مفضل, كثيرة هي الكتب التي أبكتني كثيرة التي أوصلتني لبر الأمان و احتوت أسئلتي, كثيرة هي التي أدخلتني عالما مجنونا أو فجرت جنونا كامنا فيّ, كثيرة تلك السطور التي توقف عقلي عندها كثيرا, والتي صححت لي مفاهيم , وفتحت لي الطريق للوصول لقناعات, كثيرة التي ساعدتني لأزور العالم وأتعرف على الشوارع والأماكن والخصائص, والمجتمعات. تاريخ القراءة من الكتب التي سأعود لقراءته مرة أخرى</text>
+		<aspectTerms>
+			<aspectTerm term="قارئة" polarity="negative" from="27" to="32"/>
+			<aspectTerm term="كتاب" polarity="positive" from="50" to="54"/>
+			<aspectTerm term="الكتب" polarity="positive" from="163" to="168"/>
+			<aspectTerm term="السطور" polarity="positive" from="297" to="303"/>
+			<aspectTerm term="تاريخ القراءة" polarity="positive" from="469" to="482"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الخاتمة" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="826">
+		<text>شكرا صديقتي مها الجبر التي أهدتني هذه النسخة وقد كنت قبلها أبحث عنه وأطلبه من المواقع المخصصة لبيع الكتب ودائما حظي يقف معاندا لي وتنفذ النسخ قبل وصولي إليها, كتاب ممتع جدا ورائع. سكان جدة يعرفون الأماكن طبعا  العبارات بين القوسين من الكتاب</text>
+		<aspectTerms>
+			<aspectTerm term="كتاب" polarity="positive" from="159" to="163"/>
+			<aspectTerm term="النسخة" polarity="positive" from="38" to="44"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الخاتمة" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1077">
+		<text>لازلت لا اصدق ان هذة الرواية هي للمنسي قنديل</text>
+		<aspectTerms>
+			<aspectTerm term="قنديل" polarity="negative" from="39" to="44"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المؤلف" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1078">
+		<text>حرمت أن أقرأ له بعد هذا الكتاب هو ربما مذيع جيد و لكنه كاتب فاشل</text>
+		<aspectTerms>
+			<aspectTerm term="كاتب" polarity="negative" from="55" to="59"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المؤلف" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1079">
+		<text>عرض لجزء من الواقع بشكل مستفز و معمم لا بأس بها</text>
+		<aspectTerms>
+			<aspectTerm term="الواقع" polarity="neutral" from="12" to="18"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1080">
+		<text>أحداث الرواية أقل من عادية</text>
+		<aspectTerms>
+			<aspectTerm term="أحداث" polarity="negative" from="0" to="5"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="488">
+		<text>كتاب يتحدث عن سلوكيات خاطئة في المجتمع السعودي خاصة يغطيها بقصص من واقع حياة الكاتب بطريقة ممتعة يخاطب العقول و الأرواح فيشعرها بالحسرةعلى ما يحدث من حولها  يوافق مبدأابدأ بنفسك أولًا فإذا بدأت انت و انا و نحن سيتغير المجتمع و سيتقدم و يواكب المجتمعات الأخرى من حيث ثقافة الأدب و حسن المعاملة</text>
+		<aspectTerms>
+			<aspectTerm term="سلوكيات" polarity="negative" from="14" to="21"/>
+			<aspectTerm term="كتاب" polarity="neutral" from="0" to="4"/>
+			<aspectTerm term="طريقة" polarity="positive" from="85" to="90"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="493">
+		<text>المحتوى و الهدف منه جميل من ناحية تعزيز الأخلاق لدى المجتمع الللا أخلاقي</text>
+		<aspectTerms>
+			<aspectTerm term="المحتوى" polarity="positive" from="0" to="7"/>
+			<aspectTerm term="الهدف" polarity="positive" from="10" to="15"/>
+			<aspectTerm term="الأخلاق" polarity="positive" from="40" to="47"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="494">
+		<text>رأت ماجدولين عندما كنت في المرحلة الثانوية أذكر حينها أني ذرفت دموعا وفيرة بعد الإنتهاء من القصة من مدة سنتين تقريبا تذكرت القصة ولكني لم أستطع تذكر جميع الأحداث فقررت أن أقرأها مرة أخرى.وظننت أنه من المستحيل في هذه المرة أن أبكي لأني ما عدت مراهقة.وكم كنت مخطئة مجدولين من القصص التي تبعث في النفس مشاعرا متضاربة من الحب والندم والشقاء والسؤال الذي يبقى يتردد في ذهني هو هل فعلا كانت مجدولين ستعيش في سعادة أبدية لو أنها تزوجت الشاب الذي أحبها بصدق وهل كان سيحقق هو كل ذلك النجاح في حياته لو انه تزوج مجدولين؟ أما بالنسبة للمنفلوطي فأسلوبه في الرواية ممتع ومميز إذا لم يبالغ في الوصف</text>
+		<aspectTerms>
+			<aspectTerm term="القصص" polarity="positive" from="274" to="279"/>
+			<aspectTerm term="مشاعر" polarity="negative" from="299" to="304"/>
+			<aspectTerm term="أسلوب" polarity="positive" from="534" to="539"/>
+			<aspectTerm term="الوصف" polarity="negative" from="579" to="584"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المشاعر" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="827">
+		<text>وبحسب نظرية وتروك فإن القراءة ليست ظاهرة خصوصية في البنية أو المزاج وهي ليست فوضوية أبدا إلا أنها أيضا عملية غير متناغمة كليا ومتراصة يكون فيها معنى واحد هو الصحيح كلا</text>
+		<aspectTerms>
+			<aspectTerm term="عملية" polarity="positive" from="103" to="108"/>
+			<aspectTerm term="ظاهرة" polarity="positive" from="35" to="40"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الحبكة" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="828">
+		<text>إن القراءة عملية خلاقة إبداعية تعبر عن محاولة القارئ المنتظمة لإنشاء وتكوين معنى واحد أو أكثر ضمن أحكام اللغة وقواعدها</text>
+		<aspectTerms>
+			<aspectTerm term="القراءة" polarity="positive" from="3" to="10"/>
+			<aspectTerm term="القارئ" polarity="positive" from="46" to="52"/>
+			<aspectTerm term="أحكام اللغة" polarity="neutral" from="98" to="109"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المزايا" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="829">
+		<text>نجد في الكتاب عرضا لتاريخ الطباعة ومراحل تطور شكل الكتاب, ومتى أصبح الكتاب في متناول الجميع بعد أن كان ملكا لطبقة معينة, عن أشهر القارئين, وأشهر الكتاب والكثير من المعلومات التي توصل إليها الكاتب والاقتباسات والكثير من الكتب التي يدلك عليها مانغويل ويحرضك على قراءتها</text>
+		<aspectTerms>
+			<aspectTerm term="الكتاب" polarity="positive" from="7" to="13"/>
+			<aspectTerm term="تاريخ الطباعة" polarity="positive" from="20" to="33"/>
+			<aspectTerm term="شكل الكتاب" polarity="positive" from="46" to="56"/>
+			<aspectTerm term="القارئين" polarity="positive" from="129" to="137"/>
+			<aspectTerm term="المعلومات" polarity="positive" from="163" to="172"/>
+			<aspectTerm term="الاقتباسات" polarity="positive" from="197" to="207"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="832">
+		<text>أتنفس الكتب بشكل يومي أسافر وأحلق على بساط الورق بنهم لا ينقطع, وتعبير السفر مع الكتاب رغم أنه يستخدم بشكل كبير ولكنها مشاعر حقيقية يصفها القارئ, كنت ألتهمه ببطء أخاف أن أنتهي منه وتنتهي المتعة التي انتظرتها كثيرا</text>
+		<aspectTerms>
+			<aspectTerm term="الكتب" polarity="positive" from="6" to="11"/>
+			<aspectTerm term="المتعة" polarity="positive" from="187" to="193"/>
+			<aspectTerm term="القارئ" polarity="positive" from="138" to="144"/>
+			<aspectTerm term="مشاعر" polarity="positive" from="119" to="124"/>
+			<aspectTerm term="الكتاب" polarity="positive" from="80" to="86"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المشاعر" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="833">
+		<text>القراءة أكثر الممارسات التي تحدث توازنا داخليا لي, وتكشف لي جوانب خفية وتعلمني وتحتويني وتقلب معي حيرتي, العمل الوحيد الذي أقوم به بحب كبير لا ينضب</text>
+		<aspectTerms>
+			<aspectTerm term="القراءة" polarity="positive" from="0" to="7"/>
+			<aspectTerm term="العمل" polarity="positive" from="105" to="110"/>
+			<aspectTerm term="جوانب" polarity="positive" from="60" to="65"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المشاعر" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="834">
+		<text>لقد ذهب زمان السلاطين وآن أوان اليقظة الفكرية التي تستلهم من التاريخ عبرة الإنسانية الخالدة .  د\الوردي يكتب الدكتور علي الوردي بقراءة عميقة للوضع الاجتماعي ويطرح رأيي مجرداً ليترك لذهن القارئ التفكير و تمحيص الأدلة بعد أن يبين لنا منهجاً للتفكير بطريقته العميقة الساخرة أحياناً .</text>
+		<aspectTerms>
+			<aspectTerm term="اليقظة الفكرية" polarity="positive" from="31" to="45"/>
+			<aspectTerm term="عبرة الإنسانية" polarity="positive" from="69" to="83"/>
+			<aspectTerm term="القارئ" polarity="positive" from="186" to="192"/>
+			<aspectTerm term="الأدلة" polarity="positive" from="209" to="215"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="838">
+		<text>فند بداية الخلافات بين الشيعة والسنة و كيفية منشئها وتطورها وخروجها عن أهدافها الأساسية لتخدم السياسة قبل الدين والنتيجة كما قال : نزل الدين بذلك ولم ترتفع الدولة (1) فقط كنت وددت القول ان أسلوب علي الوردي بالكتابة يفتح آفاق جديدة للتفكير ,</text>
+		<aspectTerms>
+			<aspectTerm term="أسلوب" polarity="positive" from="189" to="194"/>
+			<aspectTerm term="آفاق" polarity="positive" from="220" to="224"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الطائفية" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="840">
+		<text>مررتُ على ما يقارب العامين من عمرها,بين بياض وقعتها بأفكارها,وكأنني أعيد ترتيب غرفتها الخلفية وأقول هنا فرحت وهنا كان الحزن يقضم من روحها وهنا سخرت من مدينة العمى وهنا تعلق الإنتظار على شماعة ملابسها وهنا إنتصرت هنا فازت وهنا</text>
+		<aspectTerms>
+			<aspectTerm term="أفكارها" polarity="positive" from="53" to="60"/>
+			<aspectTerm term="الحزن" polarity="negative" from="118" to="123"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المشاعر" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="844">
+		<text>أول مصافحة لي للكاتب التشيكي : ميلان كونديرا بالرغم من أن مؤلفه هذا يقبع منذ مدة في قائمة كتبي لكنني كل مره أجده فيها لا أتشجع كثيراً على إقتنائة واليوم عرفت أنني فرطت بمعته كبيرة شكراً لي لأنني تداركت الموقف وطرقت بابه , فلسفته الكتابية شيء يجمع بين أن تقرأ قصة وأن تسقط ذلك عليك , يحلل دوافع الشخصيات بطريقة ماكرة جداً حيث أننا نتابع تسلسل الأحداث وكأننا نشاهد فلم سينمائي إلى أيّ النتائج تقف تحليلاته لا نملك إلا أن نقول محدثين أنفسنا :  أوه كنت أعرف انه سيحدث ذلك   , كتب عن الإنسان بطريقة قوية تخجلنا أحياناً منا , كان كتفي لا يقف عن الارتفاع وشفتاي ترتفع من تلقاء نفسها لأقول فعلاً فعلاً شيء طبيعي</text>
+		<aspectTerms>
+			<aspectTerm term="الموقف" polarity="positive" from="202" to="208"/>
+			<aspectTerm term="فلسفته الكتابية" polarity="positive" from="222" to="237"/>
+			<aspectTerm term="قصة" polarity="positive" from="259" to="262"/>
+			<aspectTerm term="الشخصيات" polarity="positive" from="294" to="302"/>
+			<aspectTerm term="تسلسل الأحداث" polarity="positive" from="336" to="349"/>
+			<aspectTerm term="فلم سينمائي" polarity="positive" from="363" to="374"/>
+			<aspectTerm term="النتائج" polarity="positive" from="383" to="390"/>
+			<aspectTerm term="الإنسان" polarity="positive" from="479" to="486"/>
+			<aspectTerm term="طريقة" polarity="positive" from="304" to="309"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="846">
+		<text>أحببت فلسفته بشكل خرافي من خفة الكائن : ولكي يكون حب غير قابل لأن ينسى فإنه ينبغي أن تجتمع له السبل منذ اللحظة الأولى اجتماع العصافير على كتفي القديس فرانسو الأسيزي</text>
+		<aspectTerms>
+			<aspectTerm term="فلسفته" polarity="positive" from="6" to="12"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="850">
+		<text>كتاب يتفق معي وأتفق معه ربما هوا كتالوج للنسيان أو وصفة أكتبها لكل من تأتي شاكيةً إليّ حتى لا أتكبد عناء النصح في كل مرة ,( نسيانكم ) هو تواطئ خفي يجمع نساء العالم ليكوّن لأنفسهن ترياقاً خاصاً للنسيان ليكون أول مانضعه في جيوب الحقائب حين السفر أو حتى حينما نخرج لنشرب قهوتنا في مكان ما يكتب عليه :(للنسيان وماذا يعني أن نفترق</text>
+		<aspectTerms>
+			<aspectTerm term="كتاب" polarity="positive" from="0" to="4"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="857">
+		<text>إمممممم أحببته لأنني أحب الحديث عن التاريخ وخصوصاً لو أتى بقالب روائي مشوق كما يفعل دائماً أمين معلوف في رواياته ,</text>
+		<aspectTerms>
+			<aspectTerm term="التاريخ" polarity="positive" from="35" to="42"/>
+			<aspectTerm term="قالب روائي" polarity="positive" from="59" to="69"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المشاعر" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="858">
+		<text>أحياناً كنت أشعر بأني رأيت رام الله أنا أيضاً سرت معه في الأحداث اقتبست منه الكثير والكثير أمتعتني الرواية كثيراً على الرغم من أني كنت أقرأها بنسخه الكترونيه وعدم تفضيلي لقراءة الكتب الكترونياً إلا أني أدمنتها توقعت أن تأتي الروايه بشيء من السياسه إلا أنها لم تكن كذلك  مريد البرغوثي يال الأسلوب</text>
+		<aspectTerms>
+			<aspectTerm term="الأحداث" polarity="positive" from="57" to="64"/>
+			<aspectTerm term="الرواية" polarity="positive" from="99" to="106"/>
+			<aspectTerm term="الأسلوب" polarity="positive" from="288" to="295"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="859">
+		<text>هذا الكتاب أول قراءة لي في فكر جلال أمين , وجدت في تسلسل أفكاره وطرحها زاوية مختلفة وطريقة جديدة للتفكير, في كل ما مر به العالم الإسلامي فكريا واجتماعيا, واقتصاديا. يتطرق جلال أمين من خلال كتابه إلى فكرة التقدم والتخلف , بمحاولة توضيح أن القول عن أمة بالمطلق بأنها متقدمة هو أو القول أمة متخلفة بالمطلق أمر خارج حدود المنطق, لأن الأمة هي عبارة عن خليط من أكثر من عنصر قد تتقدم بأحده وتتأخر بآخر وبحسب وجهات النظر المختلفة, وهذه بالذات طريقة جديدة للحكم تعلمتها من كتابه, لأننا بالغالب نسمع كلمة :شعب متخلف أو ننظر مثلا للمجتمع الأمريكي بأنه متقدم</text>
+		<aspectTerms>
+			<aspectTerm term="الكتاب" polarity="positive" from="4" to="10"/>
+			<aspectTerm term="فكرة" polarity="positive" from="199" to="203"/>
+			<aspectTerm term="المنطق" polarity="positive" from="317" to="323"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="502">
+		<text>رائعة هي في أسلوبها فلن نبخسها حقها</text>
+		<aspectTerms>
+			<aspectTerm term="أسلوبها" polarity="positive" from="12" to="19"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="505">
+		<text>رواية أشبه بمتابعة مسلسل تلفزيوني قرأتها مع مجموعة بنادي للقراءة هذا مازاد من حماسي لاستكمالها قرأتها ب 4 أيام فقط تعرفت فيها على جانب من الثقافة المصرية</text>
+		<aspectTerms>
+			<aspectTerm term="رواية" polarity="positive" from="0" to="5"/>
+			<aspectTerm term="الثقافة" polarity="neutral" from="138" to="145"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="506">
+		<text>كتاب ممتع مع أني وجدت صعوبة في البداية في تتبع القصص أكثر ما أثار أعجابي هو قدرة الفيلسوف بيدبا على تأليف قصص تتناسب مع الأمثال التي كان يطلبها منه الملك أغلب القصص تبدو وكأنها بنيت أو أستوحيت من أحداث واقعية هناك بعض أسماء الحيوانات التي أعترف لم أكن أعرفها وكنت أحاول إستنتاجها مثل إبن عرس ولعل المقصود به القط أو الهر.ربما سأبحث عن الباقي في المعجم ما لم يعجبني هو إخراج الكتاب ولهذا قيمته بأربع نجمات. ويبدو لي أن الكتاب طبع كما كتبه ابن المقفع في زمنه لأنه يفتقد إلى المواصفات المطلوبة في زماننا هذا أرجو أن تكون النسخ الأخرى من هذا الكتاب أفضل حالا عندما أجد الوقت المناسب سأدرج أسماء القصص التي تضمنها الكتاب</text>
+		<aspectTerms>
+			<aspectTerm term="البداية" polarity="negative" from="31" to="38"/>
+			<aspectTerm term="كتاب" polarity="positive" from="0" to="4"/>
+			<aspectTerm term="أحداث" polarity="positive" from="196" to="201"/>
+			<aspectTerm term="المواصفات" polarity="negative" from="472" to="481"/>
+			<aspectTerm term="أربع نجمات" polarity="positive" from="394" to="404"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="507">
+		<text>كبداية حبيته كثير صرت اشتاق للبروفسور وهذيانه اتوقع انها بتكون من الكتب المفضله</text>
+		<aspectTerms>
+			<aspectTerm term="الكتب" polarity="positive" from="66" to="71"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="510">
+		<text>ولكن هناك عبرة استطعت استخلاصها من الرواية ولاحظتها فى نفسى كثيرا اننى اهرب دائما من الاخرين الاقارب والاهل والاصدقاء واسعى دوما لصنع عالمى الخاص بى وحدى ، لدرجة جعلتنى لا ارى كم هو رائع ان تحاط بمن يحبك ويهتم لامرك افضل اجزاء الرواية الجزء الذى اشتمل على مكوث اسرتها معاها والحوار الذى دار بينهم</text>
+		<aspectTerms>
+			<aspectTerm term="الرواية" polarity="positive" from="35" to="42"/>
+			<aspectTerm term="الحوار" polarity="positive" from="275" to="281"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المزايا" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="512">
+		<text>الكتاب يجمع المقالات التى كتبها احمد حلمى فى جريدة الدستور الكتاب لا بأس به كمحاولة أولى</text>
+		<aspectTerms>
+			<aspectTerm term="الكتاب" polarity="neutral" from="0" to="6"/>
+			<aspectTerm term="الكتاب" polarity="positive" from="59" to="65"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المؤلف" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="514">
+	
+	
+		<text>اسلوبه مختلف ومع الوقت هيبقى ليه اسلوب متميز فى الكتابة</text>
+		<aspectTerms>
+			<aspectTerm term="اسلوبه" polarity="positive" from="0" to="6"/>
+			<aspectTerm term="اسلوب" polarity="positive" from="33" to="38"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="516">
+		<text>لكن فى المجمل الكتاب لا بأس به فى بعض الحاجات اللى عجبتنى جدا زى مقال 28 حرف ومقال عم عفيفى</text>
+		<aspectTerms>
+			<aspectTerm term="الكتاب" polarity="positive" from="14" to="20"/>
+			<aspectTerm term="مقال" polarity="positive" from="65" to="69"/>
+			<aspectTerm term="مقال" polarity="positive" from="78" to="82"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الخاتمة" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="523">
+		<text>هذه القصة الأولى التي قرأتها لغسان كنفاني لا أستطيع أن أنسى الشعور الذي أحسسته وأنا أقرأها كانت مشاعر متضاربة من الخوف والتوجس وعدم التصديق كنت أتساءل وأنا اقرأ أيعقل أن هناك كاتب عربي يكتب بهذه الطريقة. شعرت أن غسان كنفاني تصنيف منفرد قد يشبه مجموعة من الكتاب مجتمعين ولا أحد يشبهه وحده في كتابة الرواية الشفافية في صوته آسرة طبعا لا أعرف إن كانت القصة مبنية على وقائع حقيقية أو من نسج خياله ومع ذلك شعرت بأني اقرأ أحداث قصة حقيقية أو ربما مذكرات لشخص حقيقي ولولا أنني أعرف أن غسان ليس محاميا ولم يدخل السجن بتهمة قتل لخلت أنها قصة حياته أنا أعتبر غسان كنفاني مدرسة نادرة في أدب القصة للاسف لم يدرس فيها أحد بعد</text>
+		<aspectTerms>
+			<aspectTerm term="الشعور" polarity="positive" from="60" to="66"/>
+			<aspectTerm term="مشاعر" polarity="negative" from="96" to="101"/>
+			<aspectTerm term="أحداث قصة" polarity="positive" from="416" to="425"/>
+			<aspectTerm term="أدب" polarity="positive" from="576" to="579"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="530">
+		<text>اعجبني الكتاب جدا لكن لم يعجبني تشبيه الكاتب بأمريكا بالصدر الحنون</text>
+		<aspectTerms>
+			<aspectTerm term="تشبيه الكاتب" polarity="negative" from="32" to="44"/>
+			<aspectTerm term="الكتاب" polarity="positive" from="7" to="13"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="531">
+		<text>أهمية القراءة، وتبيان أهميتها كونها أول كلمة نزلت من القرآن</text>
+		<aspectTerms>
+			<aspectTerm term="القراءة" polarity="positive" from="6" to="13"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="535">
+		<text>المؤلف يتقن الوصف جداً ويبرع فيه</text>
+		<aspectTerms>
+			<aspectTerm term="الوصف" polarity="positive" from="12" to="17"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المزايا" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="540">
+		<text>أعيب على الخيام كما عاب عليه غيري, شربه للخمر وإختلاطه بشعره ومع ذلك لا أستطيع إلا أن أعطي للعبقري أحمد رامي خمسة نجمات لقدرته الفذة في جمع وترجمة بعض من رباعيات الخيام أكثر ما ابهرني هو قدرة الشاعر أحمد رامي في الحفاظ على الوزن والقافية كماويهيء لي لو أننا إستطعنا إستخلاص الخمر وإستثناءه من رباعيات الخيام لسالت لنا عيون الحكمة والفلسفة خالصة من الشطحات هذا الكتاب من أمتع الدوايين التي قرأت من يهوى الشعر يستطيع إنهاءه في خلال ساعات من ليل أو نها</text>
+		<aspectTerms>
+			<aspectTerm term="خمسة نجمات" polarity="positive" from="109" to="119"/>
+			<aspectTerm term="الفذة" polarity="positive" from="127" to="132"/>
+			<aspectTerm term="الكتاب" polarity="positive" from="360" to="366"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="التقييم" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="543">
+		<text>مميزات الرواية  الحبكة الدرامية للرواية مشوقة  عرض الكاتب لمشاكل الشباب من تشدد دينى مع عدم الفم  مشاكل مادية واجتماعية  أجواء الصحافة  الجانب الخفى من حياة رجال الاعمال وأصحاب المصالح العليا وغيرها رواية مصرية جدا  وأقرب لإنها تكون فيلم استمتعت بقرائتها</text>
+		<aspectTerms>
+			<aspectTerm term="الحبكة الدرامية" polarity="positive" from="16" to="31"/>
+			<aspectTerm term="الرواية" polarity="positive" from="7" to="14"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المزايا" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="546">
+		<text>هُناك عُمق في رَسم الشخصيات لاشك</text>
+		<aspectTerms>
+			<aspectTerm term="الشخصيات" polarity="positive" from="19" to="27"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المزايا" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="549">
+		<text>أعدك أن تخرج بأفكارٍ كثيرة أفضل مما التقطها د أحمد ما زلت عاشقاً لكتابات هذا الرجل</text>
+		<aspectTerms>
+			<aspectTerm term="أفكار" polarity="positive" from="14" to="19"/>
+			<aspectTerm term="كتابات" polarity="positive" from="66" to="72"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المؤلف" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="560">
+		<text>آلودآعية، وآختتمهآ بخطبة حجة آلودآع ومنآقشة سريعة جدآ لهآ شيء ممآ شدني</text>
+		<aspectTerms>
+			<aspectTerm term="منآقشة" polarity="positive" from="37" to="43"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المشاعر" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="561">
+		<text>توسع جدآ في آلبحث وجهد لآيمكن غض آلنظر عنه تجده بين دفتي هذآ آلكتآب</text>
+		<aspectTerms>
+			<aspectTerm term="آلكتآب" polarity="positive" from="61" to="67"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المزايا" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="564">
+		<text>تلمس في كتابه رغبته في الحرية وكسر القيود طبعاً هذا شيء جميل</text>
+		<aspectTerms>
+			<aspectTerm term="رغبته" polarity="positive" from="14" to="19"/>
+			<aspectTerm term="القيود" polarity="negative" from="35" to="41"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المزايا" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="565">
+		<text>كتاب بسيط سلس جداً غير ممل</text>
+		<aspectTerms>
+			<aspectTerm term="كتاب" polarity="positive" from="0" to="4"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="568">
+		<text>كتاب اكثر من رائع تذهلني قدرة ابراهيم عبدالمجيد علي التجدد و التالق في كل كتا</text>
+		<aspectTerms>
+			<aspectTerm term="كتاب" polarity="positive" from="0" to="4"/>
+			<aspectTerm term="قدرة" polarity="positive" from="25" to="29"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الحبكة" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="572">
+		<text>لكن لا انكر اعجابي بفصل الحب الالهي وباب التهتك الصوفي لتجلية الكثير مما افهمه واعرفه لوضع النقط فوق الحروف في هذة القضية</text>
+		<aspectTerms>
+			<aspectTerm term="فصل الحب" polarity="positive" from="20" to="28"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="584">
+		<text>مميزات الكتاب تتلخص فى خفة الدم و الاسلوب المباشر</text>
+		<aspectTerms>
+			<aspectTerm term="الكتاب" polarity="positive" from="7" to="13"/>
+			<aspectTerm term="خفة الدم" polarity="positive" from="23" to="31"/>
+			<aspectTerm term="الاسلوب المباشر" polarity="positive" from="34" to="49"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المزايا" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="594">
+		<text>ستطرد في مقدمته الجميلة التي تعتبر طويل نوعاً ما بالنسبة لحجم الكتاب الا انها لا تزيد الا من دعوة كل قارئ وبث حماسه للتخلق بالاخلاق الاسلامية التي ستذكر فيما بعد يحتاج الكتاب للرجوع اليه بين الفينة والاخرى للازالة الشوائب العالقة بالخلق وللتذكير</text>
+		<aspectTerms>
+			<aspectTerm term="الاخلاق الاسلامية" polarity="positive" from="124" to="141"/>
+			<aspectTerm term="مقدمته" polarity="negative" from="9" to="15"/>
+			<aspectTerm term="الكتاب" polarity="neutral" from="62" to="68"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الحبكة" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="595">
+		<text>تشبه سقفُ الكفاية في الموسيقا الروائية</text>
+		<aspectTerms>
+			<aspectTerm term="الموسيقا الروائية" polarity="positive" from="21" to="38"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="597">
+		<text>ووجع ذلك الذى تشعر به طوال قراءتها جذبتنى الروايه منذ قراءه اسمها وندمت على تاخرى بقراءتها  تغلقت بها لدرجه انى انهيتها فى اقل من يوم لم استطع تركها من يدى الا بعدما انهيتها  موجعه الى اقصى حد تاثرت كثيرا بما عانته جمانه</text>
+		<aspectTerms>
+			<aspectTerm term="الروايه" polarity="positive" from="42" to="49"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="598">
+		<text>كتاب عباره عن مقالات ساخره يوصل لك بها معلومه لكن وانت تضحك كثيرا انصح بها لو اردت ما يضحك ويسليك</text>
+		<aspectTerms>
+			<aspectTerm term="مقالات" polarity="positive" from="14" to="20"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="599">
+		<text>اولى قراءاتى لبلال فضل بل بدايه متابعتى له بوجه عام</text>
+		<aspectTerms>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المؤلف" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="600">
+		<text>التمست فى هذا الكتاب اسلوبه الساخر وطبيعته الجريئه التى تاتى باغرب الافعال الغير متوقعه احيانا</text>
+		<aspectTerms>
+			<aspectTerm term="اسلوبه" polarity="positive" from="21" to="27"/>
+			<aspectTerm term="طبيعته" polarity="positive" from="36" to="42"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="602">
+		<text>اعجبنى اسلوبه وتعليقه على الكثير مما كان ولا يزال موجودا فالمجتمع</text>
+		<aspectTerms>
+			<aspectTerm term="اسلوبه" polarity="positive" from="7" to="13"/>
+			<aspectTerm term="وتعليقه" polarity="positive" from="14" to="21"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المزايا" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="603">
+		<text>سررت كثيرا لان الواقع الحالى متغير تماما عن الكتاب لم نصل للنهايه وللافضل لكن حدث تغيير كبير</text>
+		<aspectTerms>
+			<aspectTerm term="الواقع" polarity="negative" from="15" to="21"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المشاعر" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="604">
+		<text>روايه جميله جدا ممتعه</text>
+		<aspectTerms>
+			<aspectTerm term="روايه" polarity="positive" from="0" to="5"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="606">
+		<text>اولى قراءاتى لرضوى عاشور ولن تكون الاخيره</text>
+		<aspectTerms>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المؤلف" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="607">
+		<text>روايه جميله ممتعه مؤثرة جدا</text>
+		<aspectTerms>
+			<aspectTerm term="روايه" polarity="positive" from="0" to="5"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="615">
+		<text>لكن بالروايه الكثير ايضا من القيم الجميله عن الاسلام والاخلاص والوفاء والصبرر</text>
+		<aspectTerms>
+			<aspectTerm term="القيم" polarity="positive" from="28" to="33"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المزايا" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="616">
+		<text>احببته كلماته رقيقة ومؤثرة</text>
+		<aspectTerms>
+			<aspectTerm term="كلماته" polarity="positive" from="7" to="13"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المشاعر" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="617">
+		<text>اول تجربه لى مع اثير اسلوبها جيد</text>
+		<aspectTerms>
+			<aspectTerm term="اسلوبها" polarity="positive" from="21" to="28"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المؤلف" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="618">
+		<text>وجدته اشبه ما يكون بخواطر كاتب وتاملات فى جوانب عديده احببت الكثير منها</text>
+		<aspectTerms>
+			<aspectTerm term="خواطر كاتب" polarity="positive" from="20" to="30"/>
+			<aspectTerm term="تاملات" polarity="positive" from="32" to="38"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المشاعر" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="234">
+		<text>مثل أغلب أعمال بهاء طاهر القصصية نجد هنا الكتابة بطريقة السهل الممتنع : الكتابة السهلة ظاهريا والسهولة فى القراءة التى تجذبك حتى تنتهى من كل قصة بسرعة وبسلاسة ثم تظل تضرب أخماس فى أسداس عن ما الذى يريد المؤلف أن يقوله</text>
+		<aspectTerms>
+			<aspectTerm term="الكتابة" polarity="positive" from="41" to="48"/>
+			<aspectTerm term="القراءة" polarity="positive" from="106" to="113"/>
+			<aspectTerm term="قصة" polarity="positive" from="141" to="144"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الحبكة" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="235">
+		<text>عنوان مغري وكبير . أكبر من أن يوضع في مقالة نشكر أخونا كندل الأمازوني فقد كانت قراءة هذا الكتاب برعايته</text>
+		<aspectTerms>
+			<aspectTerm term="عنوان" polarity="positive" from="0" to="5"/>
+			<aspectTerm term="مقالة" polarity="positive" from="38" to="43"/>
+			<aspectTerm term="هذا الكتاب" polarity="positive" from="85" to="95"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="237">
+		<text>لغة الكاتبة جيدة وان كانت متكلفة جدا</text>
+		<aspectTerms>
+			<aspectTerm term="الكاتبة" polarity="positive" from="4" to="11"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="239">
+		<text>أخيرا أنهيت الكتاب</text>
+		<aspectTerms>
+			<aspectTerm term="الكتاب" polarity="positive" from="12" to="18"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الخاتمة" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="245">
+		<text>أيضا الإحساس الذى ينتقل إليك وأنت تقرأ : هذا الإحساس بشىء متوتر ومكتوم وغير مريح رغم الهدوء الظاهرى المخادع لأغلب القصص. هذا الإحساس فى رأيى هو أهم ما أخرج به من قراءتى لأعماله الجميلة لأنه يدفعنى دائما  ولكى أتخلص من هذا التوتر الذى انتقل إلى  أن أكمل القصة من عندى بمغزى أو فكرة أو درس أو  وهو الأهم  بتغيير فى أفكارى ومواقفى من بعض الأشياء فى هذا العالم</text>
+		<aspectTerms>
+			<aspectTerm term="أعماله" polarity="positive" from="170" to="176"/>
+			<aspectTerm term="القصة" polarity="positive" from="253" to="258"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الحبكة" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="256">
+		<text>وربما يكون هذا هو المقصود بأن القارىء شريك للمؤلف فى الكتابة , لأن الكتابة كرسالة لا بد لها من متلقى , وكلما كان المتلقى فعالا وإيجابيا فى هذه المشاركة زاد نجاح الكاتب وزادت متعة وفائدة القارىء. أكثر جملة أعجبتنى من القصة الأخيرة : الجارة بعض الناس يضايقهم جدا أن تكون عجوزا وحرا وألا تحتاج إليهم. ربما يزعجهم أنك تستمتع بحياتك لأنهم هم لم يعرفوا أبدا كيف يستمتعون بحياتهم</text>
+		<aspectTerms>
+			<aspectTerm term="الكاتب" polarity="positive" from="161" to="167"/>
+			<aspectTerm term="جملة" polarity="positive" from="200" to="204"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الحبكة" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="263">
+		<text>أكثر ما جذبني للرواية عنوانها</text>
+		<aspectTerms>
+			<aspectTerm term="عنوان" polarity="positive" from="22" to="27"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المزايا" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="267">
+		<text>هل فى الزمن النسيان كما يقولون؟ ليس صحيحا. الزمن يجلو الذاكرة كأنه الماء تغمر الذهب فيه, يوما أو ألف عام فتجده فى قاع النهر يلتمع. لا يفسد الماء سوى المعدن الرخيص, يصيب سطحه ساعة فيعلوه الصدأ. لا يسقط الزمن الأصيل فى حياة الانسان. يعلو موجه, صحيح. يدفع الى القاع. يغمر و لكنك اذ تغوص تجد شجيرات المرجان حمراء, و حبات اللؤلؤ تتلألأ فى المحار. لا يلفظ البحر سوى الطحالب و الحقير من القواقع, و غرناطة هناك كاملة التفاصيل مستقرة فى القاع, غارقة. رضوى عاشور</text>
+		<aspectTerms>
+			<aspectTerm term="التفاصيل" polarity="negative" from="409" to="417"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الحبكة" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="269">
+		<text>كتاب جييد لانه واقعي استمتعت بقراءته لاني احب الكتب الواقعية والاجتماعية خصوصا</text>
+		<aspectTerms>
+			<aspectTerm term="كتاب" polarity="positive" from="0" to="4"/>
+			<aspectTerm term="الكتب" polarity="positive" from="46" to="51"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="270">
+		<text>كتاب لطيف تنتهي منه بسرعة بس من كثر الناس اللي كلمتني عنه كان توقعاتي له عالية جدا</text>
+		<aspectTerms>
+			<aspectTerm term="كتاب" polarity="positive" from="0" to="4"/>
+			<aspectTerm term="توقعاتي" polarity="negative" from="62" to="69"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المزايا" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1081">
+		<text>تعديه على الذات الإلهية مزعج للغاية</text>
+		<aspectTerms>
+			<aspectTerm term="الذات الإلهية" polarity="negative" from="10" to="23"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الطائفية" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1082">
+		<text>النجمتين فقط على المعلومات للفترة التاريخية و طريقة السرد</text>
+		<aspectTerms>
+			<aspectTerm term="النجمتين" polarity="negative" from="0" to="8"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="التقييم" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1084">
+		<text>شعرت أنها مجرد بوح لمشاعره وهذيانه بلوعة الفقد التي سطرها على الورق</text>
+		<aspectTerms>
+			<aspectTerm term="بوح لمشاعره" polarity="negative" from="15" to="26"/>
+			<aspectTerm term="لوعة الفقد" polarity="negative" from="36" to="46"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المشاعر" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1085">
+		<text>حقيقة هذا الكتاب قلل من قيمة أنيس منصور الأدبية عندي خصوصا أن الكتاب أظهر فلسفته الوجودية على أشدها فلا أخلاق إلا ما يراه يصلح من وجهة نظره.</text>
+		<aspectTerms>
+			<aspectTerm term="قيمة أنيس منصور الأدبية" polarity="negative" from="24" to="47"/>
+			<aspectTerm term="فلسفته الوجودية" polarity="negative" from="74" to="89"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المؤلف" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1086">
+		<text>لم يعجبني و ذلك لنرجسية أنيس منصور الشديدة و التي تظهر جلية في كل صفحة من صفحات الكتاب.</text>
+		<aspectTerms>
+			<aspectTerm term="نرجسية أنيس منصور" polarity="negative" from="17" to="34"/>
+			<aspectTerm term="صفحات الكتاب" polarity="negative" from="74" to="86"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المؤلف" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1087">
+		<text>هناك اسراف غير مبرر في استخدام التشبيهات والصورالمقززة التي تبعث علي الغثيان.</text>
+		<aspectTerms>
+			<aspectTerm term="التشبيهات" polarity="negative" from="31" to="40"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الهوامش" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1088">
+		<text>أسوأ ما كتب أحمد خالد توفيق</text>
+		<aspectTerms>
+			<aspectTerm term="أحمد خالد توفيق" polarity="negative" from="12" to="27"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المؤلف" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1089">
+		<text>ليس عيبا ان تكون هناك العامية في اي كتاب لكن العيب في ان تطغى على الفصحى</text>
+		<aspectTerms>
+			<aspectTerm term="العامية" polarity="negative" from="22" to="29"/>
+			<aspectTerm term="الفصحى" polarity="negative" from="66" to="72"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="اللغات" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1091">
+		<text>قد تجيد أحلام فن اللعب على نفسية العاشق أحياناً و يراها كثيرون تمتلك اناقة اللغة لكن الحبكة و ضعفها في الرواية أسوأ من ان نتجاوزها بالحديث او الإشارة</text>
+		<aspectTerms>
+			<aspectTerm term="اللعب على نفسية العاشق" polarity="positive" from="17" to="39"/>
+			<aspectTerm term="الحبكة" polarity="negative" from="85" to="91"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الحبكة" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1093">
+		<text>افكاره فى الوصول لحقيقة الدين و الاله كان من الممكن ان تصبح اكثر رقيا</text>
+		<aspectTerms>
+			<aspectTerm term="الدين" polarity="negative" from="24" to="29"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الطائفية" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1094">
+		<text>ممل في آخر صفحاته.</text>
+		<aspectTerms>
+			<aspectTerm term="آخر صفحاته" polarity="negative" from="7" to="17"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السلبيات" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1095">
+		<text>القصة مريضة و تركت الفكرة الأولى التي تتبادر في الذهن عن اختلاف الثقافة بين بلدين و الغربة و ما بعدها إلى محور سيء ردئ</text>
+		<aspectTerms>
+			<aspectTerm term="القصة" polarity="negative" from="0" to="5"/>
+			<aspectTerm term="اختلاف الثقافة" polarity="neutral" from="57" to="71"/>
+			<aspectTerm term="محور" polarity="negative" from="106" to="110"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السلبيات" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1096">
+		<text>كانت أقصوصة جميلة لكن لم تعجبني النزعة الجنسية في كلامه.</text>
+		<aspectTerms>
+			<aspectTerm term="أقصوصة" polarity="positive" from="5" to="11"/>
+			<aspectTerm term="النزعة الجنسية" polarity="negative" from="32" to="46"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السلبيات" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1099">
+		<text>احداث مملة اعتمد على السرد وذكر كتير تاريخ السودان</text>
+		<aspectTerms>
+			<aspectTerm term="احداث" polarity="negative" from="0" to="5"/>
+			<aspectTerm term="السرد" polarity="negative" from="21" to="26"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1100">
+		<text>كرهت القراءة له بعد هذا الكتاب انبهارة بامريكا و تمجيده لها مقزز بنظري.</text>
+		<aspectTerms>
+			<aspectTerm term="القراءة" polarity="negative" from="5" to="12"/>
+			<aspectTerm term="انبهارة بامريكا" polarity="negative" from="31" to="46"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاماكن" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1101">
+		<text>بعض السلبيات يجب جدياً أن نتخلص منها، بعضها من باب الأنانية والبعض الآخر من باب الطرافة وبعض الأمور لا نلحظها في سلوكياتنا لكنها غير محببة.</text>
+		<aspectTerms>
+			<aspectTerm term="الأنانية" polarity="negative" from="51" to="59"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السلبيات" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1103">
+		<text>لم أعجب بوتيرة الأحداث المتذبذبة التى سار عليها أتمنى أن يختلف الأمر مع عزازيل</text>
+		<aspectTerms>
+			<aspectTerm term="الأحداث" polarity="negative" from="15" to="22"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1104">
+		<text>أنا عندي مشكلة في النهايات المفتوحة</text>
+		<aspectTerms>
+			<aspectTerm term="النهايات" polarity="negative" from="18" to="26"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الخاتمة" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1107">
+		<text>القصة تتمحور حول زواج مسلمة من يهودي بعد قصة حب عذرية وتتجاوز إلى حد أبعد مع مضي السنين</text>
+		<aspectTerms>
+			<aspectTerm term="مسلمة" polarity="positive" from="22" to="27"/>
+			<aspectTerm term="يهودي" polarity="neutral" from="31" to="36"/>
+			<aspectTerm term="حب عذرية" polarity="positive" from="45" to="53"/>
+			<aspectTerm term="قصة" polarity="positive" from="2" to="5"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الطائفية" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1116">
+		<text>دقيق نزار في كلماته كشاعر، في توصيفاته، وتشبيهاته، في صياغة الأحرف وتنسيق اللحن الشعري، ولكنّ من ناحية الأفكار فإن نزار يصدمني في بعض الأحيان بل ويثير فيّ الغضب، لا أدري، مجرد وجهة نظر كوني أنثى لا تحب أن يُنظر للنساء من بوّابة الجسد فحسب.</text>
+		<aspectTerms>
+			<aspectTerm term="يثير فيّ الغضب" polarity="negative" from="146" to="160"/>
+			<aspectTerm term="اللحن الشعري،" polarity="positive" from="74" to="87"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1131">
+		<text>دقيق نزار في كلماته كشاعر، في توصيفاته، وتشبيهاته، في صياغة الأحرف وتنسيق اللحن الشعري، ولكنّ من ناحية الأفكار فإن نزار يصدمني في بعض الأحيان بل ويثير فيّ الغضب، لا أدري، مجرد وجهة نظر كوني أنثى لا تحب أن يُنظر للنساء من بوّابة الجسد فحسب.</text>
+		<aspectTerms>
+			<aspectTerm term="يثير فيّ الغضب" polarity="negative" from="146" to="160"/>
+			<aspectTerm term="اللحن الشعري،" polarity="positive" from="74" to="87"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1132">
+		<text>بعض السلبيات يجب جدياً أن نتخلص منها، بعضها من باب الأنانية والبعض الآخر من باب الطرافة وبعض الأمور لا نلحظها في سلوكياتنا لكنها غير محببة.</text>
+		<aspectTerms>
+			<aspectTerm term="الأنانية" polarity="negative" from="51" to="59"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السلبيات" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1133">
+		<text>قد يثير هذا الكتاب حنق البعض ويقول في نفسه حاشا لنا نحن ذلك الكتاب لا يوجه اصبع الإتهام إلى شخص بحد ذاته بل يوجه صفعة إلى الضمير الخليجيّ  يعرض هذا الكتاب مجموعة من التصرفات الغير لائقة أو الخارجة عن الأدب التي لن أحدد المجتمع السعودي بها لكن سأقول الخليج بشكل عام وبذلك يبين للقارئ أين الخطأ في تصرفه، فالبعض يعتقد بأن جميع الأمور تعود له هو شخصياً، يفكر في ذاته فحسب، وجد الوجود ليقضي هو حاجاته فيما يشتهي ويحب دون الإلتفات إلى الطرف الآخر أو مشاعر الآخر للأسف، وهذا هو بالضبط ما تربت عليه فئة كبيرة من مجتمعنا.</text>
+		<aspectTerms>
+			<aspectTerm term="مشاعر" polarity="positive" from="445" to="450"/>
+			<aspectTerm term="الأدب" polarity="positive" from="200" to="205"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1136">
+		<text>القصة تتمحور حول زواج مسلمة من يهودي بعد قصة حب عذرية وتتجاوز إلى حد أبعد مع مضي السنين</text>
+		<aspectTerms>
+			<aspectTerm term="حب عذرية" polarity="positive" from="45" to="53"/>
+			<aspectTerm term="مسلمة" polarity="positive" from="22" to="27"/>
+			<aspectTerm term="يهودي" polarity="neutral" from="31" to="36"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الطائفية" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1172">
+		<text>هذه الراوية كادت أن تدفعني إلى ارتكاب جريمة في حقّ الكتب  كِدتُّ أن أحرق هذه الرواية لما فيها من الكثير من النصوص الخادشة للحياء ، سقف الكفاية رواية اشتريتها على عمىً منّي دون حتى أدنى دراية على صُنف الرواية الرومانسي</text>
+		<aspectTerms>
+			<aspectTerm term="الراوية" polarity="negative" from="4" to="11"/>
+			<aspectTerm term="جريمة" polarity="negative" from="38" to="43"/>
+			<aspectTerm term="النصوص" polarity="negative" from="107" to="113"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1203">
+		<text>ففى ديسمبر تنتهى كل الاحلام ؟</text>
+		<aspectTerms>
+			<aspectTerm term="الاحلام" polarity="negative" from="20" to="27"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المشاعر" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1240">
+		<text>جميلة بالرغم من بساطة اسلوب الكاتب</text>
+		<aspectTerms>
+			<aspectTerm term="اسلوب الكاتب" polarity="positive" from="22" to="34"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1241">
+		<text>الكتاب ممل في تفاصيله قابلت فلان وعملت مع فلان</text>
+		<aspectTerms>
+			<aspectTerm term="الكتاب" polarity="negative" from="0" to="6"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1242">
+		<text>بشكل عام الكتاب يحمسك لانهاءه مع قراءة أولى صفحاته</text>
+		<aspectTerms>
+			<aspectTerm term="الكتاب" polarity="negative" from="9" to="15"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1243">
+		<text>الكتاب صوفي لأبعد مدى, وأنا لا أجيد القراءة الصوفية خلال قرائتي لم أصل لهدف الكتاب ولا استمتعتو كنت كمن يقرأ الطلاسم الكتاب لم يناسبني تماما لعدم فهمي له</text>
+		<aspectTerms>
+			<aspectTerm term="الكتاب" polarity="negative" from="0" to="6"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المشاعر" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1244">
+		<text>يعكس الكتاب شخصيات عربية مقيتة يجب الحذر منها وإن لم يحدث لي أن صافتها إلى الآن لي وجهة نظر اعارض فيها الكاتب وهي انه تطرق لموضوع الناحية الجنسية في كل القصص هل هذا فعلا تفكير هذه الطبقة</text>
+		<aspectTerms>
+			<aspectTerm term="الكتاب" polarity="negative" from="5" to="11"/>
+			<aspectTerm term="شخصيات" polarity="negative" from="12" to="18"/>
+			<aspectTerm term="الكاتب" polarity="negative" from="103" to="109"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1245">
+		<text>استغربت هذا الكتاب من د سلمان العودة الذي عودنا على التفكير المميز حتى وان كان موجها للوالدين أو المراهقات، فهو يحتوي على معلومات معروفة ومستهلكة حسيت كأني استمع لمحاظرة دينية في المدرسة، ممل جدا</text>
+		<aspectTerms>
+			<aspectTerm term="الكتاب" polarity="negative" from="12" to="18"/>
+			<aspectTerm term="معلومات" polarity="negative" from="122" to="129"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1246">
+		<text>الرسالة تجدها لا تناسب أسلوب العصر وقد تكررت على مسامعنا هذه النصائح،</text>
+		<aspectTerms>
+			<aspectTerm term="الرسالة" polarity="negative" from="0" to="7"/>
+			<aspectTerm term="النصائح" polarity="negative" from="61" to="68"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1247">
+		<text>هذا ليس كتاب بل هومدونات وخربشات زوجة محبة لا أنكر وجود بعض الفقرات اللطيفة والأفكار التي قد استغلها لكنه بصفه عامة لا يصنف ككتاب</text>
+		<aspectTerms>
+			<aspectTerm term="كتاب" polarity="negative" from="8" to="12"/>
+			<aspectTerm term="الفقرات" polarity="negative" from="60" to="67"/>
+			<aspectTerm term="والأفكار" polarity="negative" from="76" to="84"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="التقييم" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1248">
+		<text>الكتاب كما عودنا الكاتب سلس ومسل ويخلص بسهولة</text>
+		<aspectTerms>
+			<aspectTerm term="الكتاب" polarity="positive" from="0" to="6"/>
+			<aspectTerm term="الكاتب" polarity="positive" from="17" to="23"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1251">
+		<text>تألمت لقساوة ماحدث  لاأستطيع تخيل أن تكون الواقعة حقيقية شي مرعب صراحة</text>
+		<aspectTerms>
+			<aspectTerm term="الواقعة" polarity="negative" from="42" to="49"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المشاعر" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1254">
+		<text>الفصل الأخير من أفضل ماقرأته في الكتاب . يتحدث عن القمة العربية وصعوبة اتفاق رؤساء العرب حسيت فعلاً فعلاً بأزمة الخلافات</text>
+		<aspectTerms>
+			<aspectTerm term="رؤساء العرب" polarity="negative" from="77" to="88"/>
+			<aspectTerm term="الخلافات" polarity="negative" from="112" to="120"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المشاعر" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1255">
+		<text>قررت قراءة الكتاب اليوم بالذات لحاجتي لشيء من الإلهام الذي اعتقدت ان الكتاب سيزودني به لكن للأسف. اكملته على ملل</text>
+		<aspectTerms>
+			<aspectTerm term="الكتاب" polarity="negative" from="11" to="17"/>
+			<aspectTerm term="الإلهام" polarity="negative" from="46" to="53"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المشاعر" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1256">
+		<text>ضافه الكاتب نهاية الكتاب من تجميعات لطرائف ومواقف للعميان اممم لم تزد الكتاب قرباً إلي فكرة الكتاب جميلة</text>
+		<aspectTerms>
+			<aspectTerm term="نهاية الكتاب" polarity="negative" from="12" to="24"/>
+			<aspectTerm term="تجميعات لطرائف" polarity="negative" from="28" to="42"/>
+			<aspectTerm term="فكرة الكتاب" polarity="negative" from="87" to="98"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1257">
+		<text>كتيب تستطيع قراءته خلال نصف ساعة . بسيط ، قليل في سطوره .مليء بالسواد والوجع</text>
+		<aspectTerms>
+			<aspectTerm term="كتيب" polarity="negative" from="0" to="4"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الحبكة" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1260">
+		<text>لم يعجبني كثيراً يتكلّم بلغة نسائية بحته ويدعو للنسيان فقط وفقط</text>
+		<aspectTerms>
+			<aspectTerm term="بلغة نسائية" polarity="negative" from="24" to="35"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1261">
+		<text>اصابتنى حاله من الاشمئّزاز بعد قراءتى لهذه الروايه</text>
+		<aspectTerms>
+			<aspectTerm term="الروايه" polarity="negative" from="43" to="50"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المشاعر" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1262">
+		<text>فهى حقاروايه تفتقر الى الروايه مليئه بالحشو لمعلومات تاريخيه انثروبولوجيه قد تكون المفضله لدى ولكنّى شعُرت بالملل سريعاً لتفاهه الروايه الادبيه وسماجتها بل وسزاجتها</text>
+		<aspectTerms>
+			<aspectTerm term="الروايه" polarity="negative" from="23" to="30"/>
+			<aspectTerm term="لمعلومات" polarity="negative" from="44" to="52"/>
+			<aspectTerm term="الروايه الادبيه" polarity="negative" from="128" to="143"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1263">
+		<text>لم تُرضِ تلك المجموعة القصصية توقعاتي حول أدب نجيب محفوظ</text>
+		<aspectTerms>
+			<aspectTerm term="نجيب محفوظ" polarity="negative" from="46" to="56"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المؤلف" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1264">
+		<text>بعض القصص سطحية و البعض الآخر أفقدها غموضها المعنى المُراد إيصاله</text>
+		<aspectTerms>
+			<aspectTerm term="سطحية" polarity="negative" from="10" to="15"/>
+			<aspectTerm term="غموضها" polarity="negative" from="37" to="43"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1265">
+		<text>نجمة واحدة بدافع الكرم وربما لـ ذات الألف وجه</text>
+		<aspectTerms>
+			<aspectTerm term="نجمة واحدة" polarity="negative" from="0" to="10"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="التقييم" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1266">
+		<text>رواية وعضية مملة و أعتبر قرائتها مضيعة للوقت</text>
+		<aspectTerms>
+			<aspectTerm term="رواية" polarity="negative" from="0" to="5"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1267">
+		<text>لم اكمل الرواية ولا انوي ذلك التفاصيل معقدة ,, الشخصيات مملة</text>
+		<aspectTerms>
+			<aspectTerm term="التفاصيل معقدة" polarity="negative" from="29" to="43"/>
+			<aspectTerm term="الشخصيات" polarity="negative" from="47" to="55"/>
+			<aspectTerm term="الرواية" polarity="negative" from="8" to="15"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الحبكة" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1268">
+		<text>كتاب خفيف ظل و لكنه يفتقد للغة الكتابية</text>
+		<aspectTerms>
+			<aspectTerm term="للغة الكتابية" polarity="negative" from="26" to="39"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="اللغات" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1271">
+		<text>لا يعجبني المؤلفون الذين يمدحون كتبهم و يصفونها أوصافا تعتقد أن ما في هذا الكتاب سحر و ليس أفكار</text>
+		<aspectTerms>
+			<aspectTerm term="الكتاب" polarity="negative" from="74" to="80"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1272">
+		<text>تشوقت كثيرًا لقراءتها و حين بدأت بها امتعضت من فكرتها السخيفة المكررة في كل الروايات التي تلعب على وتر العاطفة الحسّاس</text>
+		<aspectTerms>
+			<aspectTerm term="الروايات" polarity="negative" from="76" to="84"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الحبكة" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1276">
+		<text>لست معجباً بعشوائية ترتيب الفقرات والحوارات</text>
+		<aspectTerms>
+			<aspectTerm term="ترتيب الفقرات" polarity="negative" from="20" to="33"/>
+			<aspectTerm term="والحوارات" polarity="negative" from="34" to="43"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1277">
+		<text>لم يلهمني أي من القصص، ومللت سريعاً</text>
+		<aspectTerms>
+			<aspectTerm term="القصص" polarity="negative" from="16" to="21"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1282">
+		<text>لغة جميلة عشوائية مفرطة</text>
+		<aspectTerms>
+			<aspectTerm term="لغة" polarity="conflict" from="0" to="3"/>
+			<aspectTerm term="عشوائية" polarity="negative" from="10" to="17"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="اللغات" polarity="conflict"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1283">
+		<text>أسلوب الشعر اللي الكاتب كان مصمم يكتب بيه ده غير أن أسلوبه من غير قصد حسسني أني فعلا في مصيبة جامدة أوي ومحتاجة أعمل حاجة عشان أعدي منها</text>
+		<aspectTerms>
+			<aspectTerm term="الشعر" polarity="negative" from="6" to="11"/>
+			<aspectTerm term="أسلوبه" polarity="negative" from="52" to="58"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1285">
+		<text>الكتاب ككل غير شيق بالمرة وديه وجهة نظري</text>
+		<aspectTerms>
+			<aspectTerm term="الكتاب" polarity="negative" from="0" to="6"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المشاعر" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1286">
+		<text>الكتاب مناسب أكثر لدراسي التاريخ فالمعلومات مملة جدا وطول ما انا ماشية بخبط في تواريخ الأسرات وما قبل الميلاد وانا كنت بكره الحاجات ديه أصلا لما خدتها في المدرسة</text>
+		<aspectTerms>
+			<aspectTerm term="المعلومات" polarity="negative" from="34" to="43"/>
+			<aspectTerm term="تواريخ" polarity="negative" from="79" to="85"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المشاعر" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1288">
+		<text>الرواية كانت مثل صحرائه مثل مأساته غير منتهية</text>
+		<aspectTerms>
+			<aspectTerm term="الرواية" polarity="negative" from="0" to="7"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1289">
+		<text>لا أحد ينكر براعة الشقيري كإعلامي أما ككاتب فأنا أول المنكرين لبراعته</text>
+		<aspectTerms>
+			<aspectTerm term="الشقيري" polarity="negative" from="18" to="25"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المؤلف" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1290">
+		<text>الكتاب الشقيري لديه الفكرة وجاء بها ليضع كتاباً والمشكلة فوق ذلك أن الفكرة نفسها أحياناً من السطحية بحيث لا يمكن أن تسطر بكتاب</text>
+		<aspectTerms>
+			<aspectTerm term="الفكرة" polarity="negative" from="20" to="26"/>
+			<aspectTerm term="السطحية" polarity="negative" from="92" to="99"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="السياق" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1291">
+		<text>كانوا 160 صفحة طوال و بقراهم بالعافية كتاب مليان بالكلام فارغ من المحتوى</text>
+		<aspectTerms>
+			<aspectTerm term="المحتوى" polarity="negative" from="65" to="72"/>
+			<aspectTerm term="الكلام" polarity="negative" from="50" to="56"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1292">
+		<text>المقالات بعضها بالعامية و بعضها بالفصحي</text>
+		<aspectTerms>
+			<aspectTerm term="العامية" polarity="negative" from="16" to="23"/>
+			<aspectTerm term="بالفصحي" polarity="negative" from="32" to="39"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="اللغات" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1293">
+		<text>اسلوب المقالات العامية ركيك و اسلوب المقالات الفصحي لا يعتبر اسلوب اصلا لإنه شبيه بالترجمة الحرفية من عامية الى فصحي</text>
+		<aspectTerms>
+			<aspectTerm term="اسلوب المقالات العامية" polarity="negative" from="0" to="22"/>
+			<aspectTerm term="اسلوب المقالات الفصحي" polarity="negative" from="30" to="51"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1295">
+		<text>حبكة ساذجة مكتوبة بنَفَسٍ مكارْثي، خليطٌ من مخيلةٍ هوليوودية رديئة وبارانويا مؤامراتية مضحكة</text>
+		<aspectTerms>
+			<aspectTerm term="مخيلةٍ هوليوودية" polarity="negative" from="44" to="60"/>
+			<aspectTerm term="وبارانويا مؤامراتية" polarity="negative" from="67" to="86"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الحبكة" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="1">
+		<text>هذا الكتاب هو أحد أفضل الكتب العربية التي قرأتها.</text>
+		<aspectTerms>
+			<aspectTerm term="الكتب" polarity="positive" from="23" to="28"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المشاعر" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="5">
+		<text>من أجمل الروايات العربية حقا تجعل القاريء يحلق في عالم شعري جميل أحببت أسلوب الرائعة أحلام مستغانمي جدااااااااااا</text>
+		<aspectTerms>
+			<aspectTerm term="الروايات" polarity="positive" from="8" to="16"/>
+			<aspectTerm term="أسلوب" polarity="positive" from="71" to="76"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="اسلوب" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="6">
+		<text>احدة من ثلاثية أحلام مستغانمي رواية جميلة جدا تفتح الباب على الجزائر وعلى بلد لا نعرف عنه الكثير</text>
+		<aspectTerms>
+			<aspectTerm term="رواية" polarity="positive" from="30" to="35"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الحبكة" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="7">
+		<text>حببت هذه السيرة الذاتية بساطة الأسلوب واللهجة العامية أيضاً</text>
+		<aspectTerms>
+			<aspectTerm term="الأسلوب" polarity="positive" from="30" to="37"/>
+			<aspectTerm term="اللهجة" polarity="positive" from="39" to="45"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المشاعر" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="9">
+		<text>واية حلوة جدا وأعتقد أنها أول رواية للكاتب د منذر القباني من النوع المثير جدا ، أحداثها متلاحقة بشكل سريع ولفتها جميلة وأشخاصها محددون تشعر وأنت تقرأ هذه الرواية وكأنك تشاهد فيلم سينمائي يشبه أسلوب الكاتب أسلوب دان براون ويبدو أنه متأثر به جدا كما يشبه إلى حد ما علاء الأسواني كاتب روايتي عمارة يعقوبيان وشيكاجو في الإثارة والتشويق فقط ولكن لا توجد أي إيحاءات جنسية على الإطلاق رواية تستحق القراءة</text>
+		<aspectTerms>
+			<aspectTerm term="رواية" polarity="positive" from="30" to="35"/>
+			<aspectTerm term="أسلوب الكاتب" polarity="positive" from="192" to="204"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المشاعر" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="10">
+		<text>جموعة مقالات ساخرة وفيها نقد لاذع بأسلوب سلس جدا الكتاب خفيف ولطيف جدا من فئة الساندويش يمكن قرائته في جلسة وحده أعجبني</text>
+		<aspectTerms>
+			<aspectTerm term="نقد" polarity="positive" from="25" to="28"/>
+			<aspectTerm term="أسلوب" polarity="positive" from="35" to="40"/>
+			<aspectTerm term="الكتاب" polarity="positive" from="49" to="55"/>
+			<aspectTerm term="مقالات" polarity="positive" from="6" to="12"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المشاعر" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="11">
+		<text>رواية جميلة جدا أحداث كثيرة ومثيرة ومترابطة الخيال والشطحات موجودة بس مقبولة عندما أمسكت الرواية كنت في حالة نفسية سيئة بسبب الشغل وكنت أبحث عن عالم سحري يبعدني عن التفكير في الغباء البشري طبعا ومعاها أنسحبت لعالم مثير وجميل جداااا وذكي للغاية</text>
+		<aspectTerms>
+			<aspectTerm term="أحداث" polarity="positive" from="16" to="21"/>
+			<aspectTerm term="رواية" polarity="negative" from="0" to="5"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الحبكة" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="12">
+		<text>من أبدع ما قرأت. لغة مبهرة. تكثيف درامي عجيب. النهاية كانت هشة شيئا ما لكونها متسارعة. كتاب يستحق القراظة حتما</text>
+		<aspectTerms>
+			<aspectTerm term="تكثيف درامي" polarity="positive" from="28" to="39"/>
+			<aspectTerm term="لغة" polarity="positive" from="17" to="20"/>
+			<aspectTerm term="النهاية" polarity="negative" from="46" to="53"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المزايا" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="13">
+		<text>شكرا أيها الكاتب المبدع أسلوبك المتميز في السرد ورشاقة التنقل بين الأحداث متميز جداااا ولكن السؤال كيف أستطاع الكاتب أن يمسك بكل هذه الخيوط في رواية واحدة شعرت وكأنه يحرك الشخصيات في مسرح العرايس رواية ممتعة لمن يحبون القراءة حتى النخاع فهي من النوع الذي لا تستطيع تركه دقيقة حتى تنتهي من</text>
+		<aspectTerms>
+			<aspectTerm term="أسلوب" polarity="positive" from="24" to="29"/>
+			<aspectTerm term="الكاتب" polarity="positive" from="10" to="16"/>
+			<aspectTerm term="رواية" polarity="positive" from="143" to="148"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="15">
+		<text>واية جميلة جداااااااااا ينقلك الكاتب إلى سيوه الواحة المصرية الجميلة من خلال وصف دقيق وجميل جدا للمكان والنخيل وينابيع الماء أسلوب الروايه جميل في التنقل بين الشخصيات من خلال الحوار الذي يظهر أبعاد شخصياتهم من المهم جدا أن يحدد الإنسان ما يريد شيء واحد لم أفهمه ولم أعرف سره في الرواية شخصية مليكه شعرت بأنها لم تأخذ حقها ليت الكاتب ألقى الضوء عليها بدل من ترك الشخصيات التي حولها تتحدث عنها الروايه جميلة جداااااااااا وتستحق القراءة</text>
+		<aspectTerms>
+			<aspectTerm term="أسلوب الروايه" polarity="positive" from="125" to="138"/>
+			<aspectTerm term="الروايه" polarity="positive" from="392" to="399"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الحبكة" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="17">
+		<text>ذكريات رااااااااااائعة جدا تمنيت يانهى تكوني في جدة وتقرئيها مرررررررره حلوة وممتعة ان شاء الله نتلاقى على خير وتقرئيها</text>
+		<aspectTerms>
+			<aspectTerm term="ذكريات" polarity="positive" from="0" to="6"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المشاعر" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="18">
+		<text>رواية جميلة جدا تتحدث عن الدين المسيحي والكنيسة واللاهوت يسقط الكاتب من خلالها مواقف كثيرة جدا تتكرر الآن في حياتنا رواية تستحق القراءة لأسلوبها البسيط والعميق أعجبتني جدا</text>
+		<aspectTerms>
+			<aspectTerm term="رواية" polarity="positive" from="0" to="5"/>
+			<aspectTerm term="أسلوب" polarity="positive" from="137" to="142"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="19">
+		<text>كثر مالفت انتباهي في هذه الرواية الغلاف ، اللون وتقسيم الصورة والعنوان ، ملفت للنظر فعلا ، الرواية تدور أحداثها في نهاية الثمانينات عندما انتشرت المخدرات في مصر بصورة مذهلة ، وكذلك في باقي الدول العربية ، من خلال الرواية يعرف القارئ أن الهروين لا يمكن إدمانه من المره الأولى ، ولا يمكن الإقلاع عن المخدرات بمجرد النية أو التأثر بأراء الأخرين ، الأمر يحتاج إلى 12 خطوة يشرحها المؤلف في نهاية الرواية الرواية جميلة</text>
+		<aspectTerms>
+			<aspectTerm term="الرواية" polarity="positive" from="25" to="32"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الحبكة" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="21">
+		<text>بدع أحببت أسلوب علاء الأسواني من رواياته السابقة أعجبتني مجموعته رغم إنها الأقدم إلا إنه الآن نشرها المقدمة رائعة فعلا وهي تجربة حياة تستحق التوقف والتفكير</text>
+		<aspectTerms>
+			<aspectTerm term="المقدمة" polarity="positive" from="100" to="107"/>
+			<aspectTerm term="أسلوب" polarity="positive" from="10" to="15"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الحبكة" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="22">
+		<text>رواية جميلة للمبدع محمد حسن علوان ، لا يوجد فيها الكثير من الأحداث ولكن فيها الكثير من الحوار مع الذات والمكاشفات . الرواية ممتعة جدا لمن يحب البحث داخل الذات الإنسانية أحببتها جداااا</text>
+		<aspectTerms>
+			<aspectTerm term="رواية" polarity="positive" from="0" to="5"/>
+			<aspectTerm term="الرواية" polarity="positive" from="116" to="123"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المشاعر" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="23">
+		<text>رواية مدهشة بكل ما في الكلمة من معنى</text>
+		<aspectTerms>
+			<aspectTerm term="رواية" polarity="positive" from="0" to="5"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="24">
+		<text>أروع الروايات التي قرئتها أشبه بسيرة ذاتية صادقة ، تروي فيها الكاتبة قصة حياتها منذ وعيت على الدنيا لتجد أبيها سجين سياسي وزياراتها له ، تروي كيف تعايشت كطفلة مصرية لأم فرنسية وأب مصري من الصعيد ، كيف تعايشت مع الترجمة بين اللغتين خصوصاً بين والدتها التي لم تتقن اللغة العربية وأهل والدها الأميين ، كيف استطاعت الجمع بين حضارتين بتوازن جميل دون أن تفقد جذورها وشغفها بقضايا بلدها ، كيف أحبت بلدها وحملت قضيته على كتفها ودخلت المعتقل ، واستمرت حياتها سلسلة من التضحيات والمواجهات رواية بصدق تستحق القراءة أعجبتني جداااااااااا</text>
+		<aspectTerms>
+			<aspectTerm term="الروايات" polarity="positive" from="5" to="13"/>
+			<aspectTerm term="رواية" polarity="negative" from="479" to="484"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الحبكة" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="25">
+		<text>النقطة ، بدت لي مملة في البداية وطويلة ومكررة أيضا فهي تحمل تفاصيل كثيرررررررررة في البداية ، ولكن الرواية جذابة جدااااااااا، كعادة عبده خال يمرر كلماته العميقة التي تحمل معاني كبيرة جدا من خلال السطور للأسف الرواية تحكي واقعة سوداوية جدا ، وتتحدث عن فئة من المجتمع يتساوى فيها الإنسان بالنسبة لهم مع الحشرات ، لا معنى لحياة الآخرين لديهم عشت مع الرواية ثلاثة أيام وها أنا لازلت تحت تأثيرها والذي أظنه سيستمر لأيام طويلة ، لا</text>
+		<aspectTerms>
+			<aspectTerm term="تفاصيل" polarity="negative" from="60" to="66"/>
+			<aspectTerm term="معاني" polarity="positive" from="171" to="176"/>
+			<aspectTerm term="الرواية" polarity="positive" from="99" to="106"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الحبكة" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="26">
+		<text>الأسرار دوما ، تأسرني روايتها كتاب يحمل أسرار شفافة مكتوبة بلغة راقية لا تستطيع أن تترك الكتاب قبل أن تلتهم كل الأسرار أحببت كل شيء</text>
+		<aspectTerms>
+			<aspectTerm term="أسرار" polarity="positive" from="2" to="7"/>
+			<aspectTerm term="لغة" polarity="positive" from="60" to="63"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المشاعر" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="28">
+		<text>من أجمل الروايات التي قرائتها مؤخرا ، أسلوب علوان تطور في هذه الرواية وأصبح أكثر نضجا . استخدامه للقندس في تشريح علاقات عائلته بالحياة جميل جدا . تشعر وكأنه هو بطل الرواية وعاش القصة ويكتب عن نفسه . ر</text>
+		<aspectTerms>
+			<aspectTerm term="الروايات" polarity="positive" from="8" to="16"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الحبكة" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="29">
+		<text>كانت معركةً أن استمرّ حتى النهاية.كتابٌ عميق ٌ وشامل يكاد يكون قد تحدث في كل مناحي الحياة المعروفة في زمان ابن خلدون وضم من الأدب والشعر ما جعله تجربةً جميلة</text>
+		<aspectTerms>
+			<aspectTerm term="كتابٌ" polarity="positive" from="34" to="39"/>
+			<aspectTerm term="تجربةً" polarity="positive" from="145" to="151"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الحبكة" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="34">
+		<text>كتاب رااااااااااااااااااااااااائع لا يمل</text>
+		<aspectTerms>
+			<aspectTerm term="كتاب" polarity="positive" from="0" to="4"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المزايا" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="35">
+		<text>أرى النقطة الوحيدة المشتركة بينهما هى البيئة : العشوائيات. فقط لا غير رواية من النوع الذى يجبرك على انهائها فى جلسة واحدة على أمل أن تستطيع التقاط انفاسك بعد نهايتها, و قد تعجز عن ذلك حتى بعد انهائها كالعادة تحمل قدرا وافرا فى التجديد على مستوى السرد و الأحداث, حتى فكرة الكتابة عن (كاتب يبحث عن أفكار للكتابة) قد استهلكت من قبل و لكن مثل ابراهيم فرغلى فى رواية أبناء</text>
+		<aspectTerms>
+			<aspectTerm term="رواية" polarity="positive" from="70" to="75"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المزايا" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="36">
+		<text>سلوب الخلط الزمنى و التباين فى الأحداث ذاتها (الذى لم يعجب الكثيرين) أراه هو الرمز العبقرى فيها من وجهة نظرى, والذى يرتبط بالثورة أيضا, و أشار المؤلف الى جزء منه بشكل مباشر حين تحدث عن القصة التى تتعدد الألسنة التى يحكيها واحد لاخر حتى تتحول الى قصة مختلفة تماما</text>
+		<aspectTerms>
+			<aspectTerm term="قصة" polarity="positive" from="187" to="190"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الحبكة" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="37">
+		<text>الكتاب جميل وكتب بلغة تخاطب واقعنا المعاصر. حقيقة توقفت عن قراءة الكتاب كامل لضيق الوقت وتكرار بعض الأفكار. قد أعود له يومًا ما</text>
+		<aspectTerms>
+			<aspectTerm term="الكتاب" polarity="positive" from="0" to="6"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المزايا" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="44">
+		<text>جدير بالقراءة مقتبس منه : رسالة العالم الإسلامي : لا ينهض العالم الإسلامي إلا برسالته التي وكلها إليه مؤسسه صلى الله عليه وسلم والإيمان بها والاستماتة في سبيلها ، وهي رسالة قوية واضحة مشرقة ، لم يعرف العالم رسالة أعدل منها ولا أفضل ولا أيمن للبشرية منها</text>
+		<aspectTerms>
+			<aspectTerm term="رسالة" polarity="positive" from="26" to="31"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المزايا" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="49">
+		<text>أسئلة الثورة كتاب جميل وخفيف ، يطرح بعض الأسئلة التي شغلت الكثير منا أيام الثورات. كما يقدم موجز تاريخي للثورات في العالم الغربي والإسلامي.وإمكانية الإصلا قبل الثورة ، ودوافع الثورة هل يمكن تفسيرها. كما طرح تأثير حركة الجماهير وتأثيرهم في حدوث ثورة بإرادتهم. وعرج إلى طرح نموذج الدولة المدنية ومن الأولى بالحكم. وانتهى بما بعد الثورة الحلم. الكتاب جميل وبسيط يتحدث عن حدوث الثورات ومشروعيتها ومستقبلها من وجه نظر الكاتب والتاريخ والدلالات</text>
+		<aspectTerms>
+			<aspectTerm term="كتاب" polarity="positive" from="13" to="17"/>
+			<aspectTerm term="الكتاب" polarity="positive" from="341" to="347"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="50">
+		<text>متعه متعه متعه =) حقا استفدت وتعلمت . بغض النظر بعض الحقائق المبهمه يستحق خمس نجوم واكثر رحم الله غازي واسكنه فسيح جناته</text>
+		<aspectTerms>
+			<aspectTerm term="الحقائق" polarity="negative" from="52" to="59"/>
+			<aspectTerm term="خمس نجوم" polarity="positive" from="74" to="82"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المشاعر" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="52">
+		<text>انتهيت اليوم منه ,, استمتعت به بالرغم من عدم انجذابي إلى كتب المقالات الأدبية ,,  لماذا يرحلون إلى مكة  كانت اكثر جزئية اعجبتني ,, بشكل عام الكتاب بيسط واسلوب الكاتب كان رائع</text>
+		<aspectTerms>
+			<aspectTerm term="الكتاب" polarity="positive" from="140" to="146"/>
+			<aspectTerm term="اسلوب الكاتب" polarity="positive" from="153" to="165"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الحبكة" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="54">
+		<text>اسقاطات رائعة جدا لا مثيل لغازي القصيبي في مجال الاسقاطات ع واقعنا</text>
+		<aspectTerms>
+			<aspectTerm term="اسقاطات" polarity="positive" from="0" to="7"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="الاسلوب" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="55">
+		<text>الرواية الوحيدة تقريبا المسموح تداولها علناً للكاتب</text>
+		<aspectTerms>
+			<aspectTerm term="الرواية" polarity="positive" from="0" to="7"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المزايا" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence id="56">
+		<text>هذا الكتاب له ذكريات كثيرة معي، تعرفت عليه في المرحلة الإبتدائية حين وجدته في منزلنا في الرياض دون اسم مؤلف، قرأته وكان بوابة روحية مناسبة لطفل يبحث في أحلامه عن تغيير العالم</text>
+		<aspectTerms>
+			<aspectTerm term="ذكريات" polarity="positive" from="14" to="20"/>
+		</aspectTerms>
+		<aspectCategories>
+			<aspectCategory category="المشاعر" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+</sentences>
