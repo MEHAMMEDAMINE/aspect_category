@@ -185,7 +185,7 @@ with open(dir_path+"train_NLI_M.csv","w",encoding="utf-8") as g:
                 
                 if "الطائفية" in category:
                   g.write(id+"\t"+polarity[category.index("الطائفية")]+"\t"+"الطائفية"+"\t"+text+"\n")
-                 else:
+                else:
                     g.write(id + "\t" + "none" + "\t" + "الطائفية" + "\t" + text + "\n")
                 
                 if "الخاتمة" in category:
