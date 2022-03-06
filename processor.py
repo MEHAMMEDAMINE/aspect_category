@@ -336,7 +336,7 @@ class Semeval_NLI_M_Processor(DataProcessor):
         n=4242-150
         test_data=test_data.drop(test_data[test_data[1].eq("none")].sample(n).index)
         test_data=test_data.sample(frac = 1, random_state=0)
-print(df_shuffled))
+
         test_data=test_data.values
         return self._create_examples(test_data, "test")
 
