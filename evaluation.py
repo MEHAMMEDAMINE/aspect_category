@@ -325,7 +325,7 @@ def semeval_Acc(y_true, y_pred, score, classes=4):
     if classes == 4:
         total=0
         total_right=0
-        for i in range(len(y_true)):
+        for i in range(len(y_true)-1):
             if y_true[i]==4:continue
             total+=1
             tmp=y_pred[i]
