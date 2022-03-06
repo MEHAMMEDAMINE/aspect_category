@@ -315,7 +315,7 @@ class Semeval_NLI_M_Processor(DataProcessor):
     def get_train_examples(self, data_dir):
         """See base class."""
         train_data = pd.read_csv(os.path.join(data_dir, "train_NLI_M.csv"),header=None,sep="\t")
-        n=16926-1000
+        n=16926-600
         train_data=train_data.drop(train_data[train_data[1].eq("none")].sample(n).index)
         train_data=train_data.sample(frac = 1)
         train_data=train_data.values
@@ -324,7 +324,7 @@ class Semeval_NLI_M_Processor(DataProcessor):
     def get_dev_examples(self, data_dir):
         """See base class."""
         dev_data = pd.read_csv(os.path.join(data_dir, "dev_NLI_M.csv"),header=None,sep="\t")
-        n=16926-1000
+        n=16926-600
         dev_data=dev_data.drop(dev_data[dev_data[1].eq("none")].sample(n).index)
         dev_data=dev_data.sample(frac = 1)
         dev_data=dev_data.values
@@ -333,7 +333,7 @@ class Semeval_NLI_M_Processor(DataProcessor):
     def get_test_examples(self, data_dir):
         """See base class."""
         test_data = pd.read_csv(os.path.join(data_dir, "test_NLI_M.csv"),header=None,sep="\t")
-        n=4242-200
+        n=4242-150
         test_data=test_data.drop(test_data[test_data[1].eq("none")].sample(n).index)
         test_data=test_data.sample(frac = 1)
         test_data=test_data.values
