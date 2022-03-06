@@ -318,7 +318,7 @@ class Semeval_NLI_M_Processor(DataProcessor):
         n=16926-600
         #train_data=train_data.drop(train_data[train_data[1].eq("none")].sample(n).index)
         
-        train_data = train_data.drop(train_data[train_data[1] == "none"].sample(frac=.80,random_state=0).index)
+        train_data = train_data.drop(train_data[train_data[1] == "none"].sample(frac=.85,random_state=0).index)
         train_data=train_data.sample(frac = 1, random_state=0)
         train_data=train_data.values
         return self._create_examples(train_data, "train")
@@ -329,7 +329,7 @@ class Semeval_NLI_M_Processor(DataProcessor):
         n=16926-600
        # dev_data=dev_data.drop(dev_data[dev_data[1].eq("none")].sample(n).index)
         
-        dev_data = dev_data.drop(dev_data[dev_data[1] == "none"].sample(frac=.80,random_state=0).index)
+        dev_data = dev_data.drop(dev_data[dev_data[1] == "none"].sample(frac=.85,random_state=0).index)
         dev_data=dev_data.sample(frac = 1, random_state=0)
         dev_data=dev_data.values
         return self._create_examples(dev_data, "dev")
