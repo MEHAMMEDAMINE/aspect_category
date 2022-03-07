@@ -373,7 +373,7 @@ class Semeval_QA_M_Processor(DataProcessor):
 
     def get_train_examples(self, data_dir):
         """See base class."""
-        train_data = pd.read_csv(os.path.join(data_dir, "train_NLI_M.csv"),header=None,sep="\t")
+        train_data = pd.read_csv(os.path.join(data_dir, "train_QA_M.csv"),header=None,sep="\t")
         train_data = train_data.drop(train_data[train_data[1] == "none"].sample(frac=.85,random_state=0).index)
         train_data=train_data.sample(frac = 1, random_state=0)
         train_data=train_data.values
@@ -381,7 +381,7 @@ class Semeval_QA_M_Processor(DataProcessor):
 
     def get_dev_examples(self, data_dir):
         """See base class."""
-        dev_data = pd.read_csv(os.path.join(data_dir, "dev_NLI_M.csv"),header=None,sep="\t")
+        dev_data = pd.read_csv(os.path.join(data_dir, "dev_QA_M.csv"),header=None,sep="\t")
         dev_data = dev_data.drop(dev_data[dev_data[1] == "none"].sample(frac=.85,random_state=0).index)
         dev_data=dev_data.sample(frac = 1, random_state=0)
         dev_data=dev_data.values
@@ -389,7 +389,7 @@ class Semeval_QA_M_Processor(DataProcessor):
 
     def get_test_examples(self, data_dir):
         """See base class."""
-        test_data = pd.read_csv(os.path.join(data_dir, "test_NLI_M.csv"),header=None,sep="\t")
+        test_data = pd.read_csv(os.path.join(data_dir, "test_QA_M.csv"),header=None,sep="\t")
         n=4242-150
         #test_data=test_data.drop(test_data[test_data[1].eq("none")].sample(n).index)
         test_data = test_data.drop(test_data[test_data[1] == "none"].sample(frac=.80,random_state=0).index)
