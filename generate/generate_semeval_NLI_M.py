@@ -5,13 +5,14 @@ Created on Wed Mar  2 10:00:05 2022
 @author: MOHAMMED ELAMINE
 """
 import os
+from random import sample
 
-data_dir='../data/HAAD./'
+data_dir='../data/HAAD/'
 
 dir_path = data_dir+'bert-pair/'
 if not os.path.exists(dir_path):
     os.makedirs(dir_path)
-
+d=['الحبكة', 'المشاعر', 'الاسلوب', 'السياق', 'السلبيات', 'المؤلف', 'التقييم', 'الاماكن', 'الطائفية', 'الخاتمة', 'اللغات', 'الهوامش', 'الوقت', 'الاموال', 'المزايا']
 with open(dir_path+"test_NLI_M.csv","w",encoding="utf-8") as g:
     with open(data_dir+"HAAD_Test_GOLD.xml","r",encoding="utf-8") as f:
         s=f.readline().strip()
@@ -35,80 +36,14 @@ with open(dir_path+"test_NLI_M.csv","w",encoding="utf-8") as g:
                         right=s.find("/>")
                         polarity.append(s[left+10:right-1])
                     s=f.readline().strip()
-                if "المزايا" in category:
-                    g.write(id+"\t"+polarity[category.index("المزايا")]+"\t"+"المزايا"+"\t"+text+"\n")
-                else:
-                    g.write(id + "\t" + "none" + "\t" + "المزايا" + "\t" + text + "\n")
+                a=[item for item in d if item not in category]
+                ss=sample(a,3)
+                for i in d:
+                    if i in category:
+                        g.write(id+"\t"+polarity[category.index(i)]+"\t"+i+"\t"+text+"\n")
+                for l in ss:
+                        g.write(id + "\t" + "none" + "\t" + l + "\t" + text + "\n")
                
-                if "الحبكة" in category:
-                    g.write(id+"\t"+polarity[category.index("الحبكة")]+"\t"+"الحبكة"+"\t"+text+"\n")
-                else:
-                    g.write(id + "\t" + "none" + "\t" + "الحبكة" + "\t" + text + "\n")
-                
-                if "المشاعر" in category:
-                    g.write(id+"\t"+polarity[category.index("المشاعر")]+"\t"+"المشاعر"+"\t"+text+"\n")
-                else:
-                    g.write(id + "\t" + "none" + "\t" + "المشاعر" + "\t" + text + "\n")
-                
-                if "الاسلوب" in category:
-                    g.write(id+"\t"+polarity[category.index("الاسلوب")]+"\t"+"الاسلوب"+"\t"+text+"\n")
-                else:
-                    g.write(id + "\t" + "none" + "\t" + "الاسلوب" + "\t" + text + "\n")
-                
-                if "السياق" in category:
-                    g.write(id+"\t"+polarity[category.index("السياق")]+"\t"+"السياق"+"\t"+text+"\n")
-                else:
-                    g.write(id + "\t" + "none" + "\t" + "السياق" + "\t" + text + "\n")
-      
-                if "السلبيات" in category:
-                    g.write(id+"\t"+polarity[category.index("السلبيات")]+"\t"+"السلبيات"+"\t"+text+"\n")
-                else:
-                    g.write(id + "\t" + "none" + "\t" + "السلبيات" + "\t" + text + "\n")
-
-                if "المؤلف" in category:
-                   g.write(id+"\t"+polarity[category.index("المؤلف")]+"\t"+"المؤلف"+"\t"+text+"\n")
-                else:
-                    g.write(id + "\t" + "none" + "\t" + "المؤلف" + "\t" + text + "\n")
-                
-                if "التقييم" in category:
-                   g.write(id+"\t"+polarity[category.index("التقييم")]+"\t"+"التقييم"+"\t"+text+"\n")
-                else:
-                    g.write(id + "\t" + "none" + "\t" + "التقييم" + "\t" + text + "\n")
-                
-                if "الاماكن" in category:
-                    g.write(id+"\t"+polarity[category.index("الاماكن")]+"\t"+"الاماكن"+"\t"+text+"\n")
-                else:
-                    g.write(id + "\t" + "none" + "\t" + "الاماكن" + "\t" + text + "\n")
-                
-                if "الطائفية" in category:
-                  g.write(id+"\t"+polarity[category.index("الطائفية")]+"\t"+"الطائفية"+"\t"+text+"\n")
-                else:
-                    g.write(id + "\t" + "none" + "\t" + "الطائفية" + "\t" + text + "\n")
-                
-                if "الخاتمة" in category:
-                 g.write(id+"\t"+polarity[category.index("الخاتمة")]+"\t"+"الخاتمة"+"\t"+text+"\n")
-                else:
-                    g.write(id + "\t" + "none" + "\t" + "الخاتمة" + "\t" + text + "\n")
-              
-                if "اللغات" in category:
-                 g.write(id+"\t"+polarity[category.index("اللغات")]+"\t"+"اللغات"+"\t"+text+"\n")
-                else:
-                    g.write(id + "\t" + "none" + "\t" + "اللغات" + "\t" + text + "\n")
-               
-                if "الهوامش" in category:
-                 g.write(id+"\t"+polarity[category.index("الهوامش")]+"\t"+"الهوامش"+"\t"+text+"\n")
-                else:
-                    g.write(id + "\t" + "none" + "\t" + "الهوامش" + "\t" + text + "\n")
-                
-                if "الوقت" in category:
-                 g.write(id+"\t"+polarity[category.index("الوقت")]+"\t"+"الوقت"+"\t"+text+"\n")
-                else:
-                    g.write(id + "\t" + "none" + "\t" + "الوقت" + "\t" + text + "\n")
-               
-                if "الاموال" in category:
-                 g.write(id+"\t"+polarity[category.index("الاموال")]+"\t"+"الاموال"+"\t"+text+"\n")
-                else:
-                    g.write(id + "\t" + "none" + "\t" + "الاموال" + "\t" + text + "\n")
                 
                 
             else:
@@ -138,80 +73,14 @@ with open(dir_path+"train_NLI_M.csv","w",encoding="utf-8") as g:
                         right=s.find("/>")
                         polarity.append(s[left+10:right-1])
                     s=f.readline().strip()
-                if "المزايا" in category:
-                    g.write(id+"\t"+polarity[category.index("المزايا")]+"\t"+"المزايا"+"\t"+text+"\n")
-                else:
-                    g.write(id + "\t" + "none" + "\t" + "المزايا" + "\t" + text + "\n")
-                
-                
-                if "الحبكة" in category:
-                    g.write(id+"\t"+polarity[category.index("الحبكة")]+"\t"+"الحبكة"+"\t"+text+"\n")
-                else:
-                    g.write(id + "\t" + "none" + "\t" + "الحبكة" + "\t" + text + "\n")
-                
-                if "المشاعر" in category:
-                    g.write(id+"\t"+polarity[category.index("المشاعر")]+"\t"+"المشاعر"+"\t"+text+"\n")
-                else:
-                    g.write(id + "\t" + "none" + "\t" + "المشاعر" + "\t" + text + "\n")
-                
-                if "الاسلوب" in category:
-                    g.write(id+"\t"+polarity[category.index("الاسلوب")]+"\t"+"الاسلوب"+"\t"+text+"\n")
-                else:
-                    g.write(id + "\t" + "none" + "\t" + "الاسلوب" + "\t" + text + "\n")
-                
-                if "السياق" in category:
-                    g.write(id+"\t"+polarity[category.index("السياق")]+"\t"+"السياق"+"\t"+text+"\n")
-                else:
-                    g.write(id + "\t" + "none" + "\t" + "السياق" + "\t" + text + "\n")
-                
-                if "السلبيات" in category:
-                    g.write(id+"\t"+polarity[category.index("السلبيات")]+"\t"+"السلبيات"+"\t"+text+"\n")
-                else:
-                    g.write(id + "\t" + "none" + "\t" + "السلبيات" + "\t" + text + "\n")
-                
-                if "المؤلف" in category:
-                   g.write(id+"\t"+polarity[category.index("المؤلف")]+"\t"+"المؤلف"+"\t"+text+"\n")
-                else:
-                    g.write(id + "\t" + "none" + "\t" + "المؤلف" + "\t" + text + "\n")
-                if "التقييم" in category:
-                   g.write(id+"\t"+polarity[category.index("التقييم")]+"\t"+"التقييم"+"\t"+text+"\n")
-                else:
-                    g.write(id + "\t" + "none" + "\t" + "التقييم" + "\t" + text + "\n")
-               
-                if "الاماكن" in category:
-                    g.write(id+"\t"+polarity[category.index("الاماكن")]+"\t"+"الاماكن"+"\t"+text+"\n")
-                else:
-                    g.write(id + "\t" + "none" + "\t" + "الاماكن" + "\t" + text + "\n")
-                
-                if "الطائفية" in category:
-                  g.write(id+"\t"+polarity[category.index("الطائفية")]+"\t"+"الطائفية"+"\t"+text+"\n")
-                else:
-                    g.write(id + "\t" + "none" + "\t" + "الطائفية" + "\t" + text + "\n")
-                
-                if "الخاتمة" in category:
-                 g.write(id+"\t"+polarity[category.index("الخاتمة")]+"\t"+"الخاتمة"+"\t"+text+"\n")
-                else:
-                    g.write(id + "\t" + "none" + "\t" + "الخاتمة" + "\t" + text + "\n")
-                if "اللغات" in category:
-                 g.write(id+"\t"+polarity[category.index("اللغات")]+"\t"+"اللغات"+"\t"+text+"\n")
-                else:
-                    g.write(id + "\t" + "none" + "\t" + "اللغات" + "\t" + text + "\n")                
-                if "الهوامش" in category:
-                 g.write(id+"\t"+polarity[category.index("الهوامش")]+"\t"+"الهوامش"+"\t"+text+"\n")
-                else:
-                    g.write(id + "\t" + "none" + "\t" + "الهوامش" + "\t" + text + "\n")
-                
-                if "الوقت" in category:
-                 g.write(id+"\t"+polarity[category.index("الوقت")]+"\t"+"الوقت"+"\t"+text+"\n")
-                else:
-                    g.write(id + "\t" + "none" + "\t" + "الوقت" + "\t" + text + "\n")
-                
-                if "الاموال" in category:
-                 g.write(id+"\t"+polarity[category.index("الاموال")]+"\t"+"الاموال"+"\t"+text+"\n")
-                else:
-                    g.write(id + "\t" + "none" + "\t" + "الاموال" + "\t" + text + "\n")
-                
-  
+                a=[item for item in d if item not in category]
+                ss=sample(a,3)
+                for i in d:
+                    if i in category:
+                        g.write(id+"\t"+polarity[category.index(i)]+"\t"+i+"\t"+text+"\n")
+                for l in ss:
+                        g.write(id + "\t" + "none" + "\t" + l + "\t" + text + "\n")
+
                 
 
 
