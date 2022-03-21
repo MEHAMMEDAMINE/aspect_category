@@ -37,7 +37,7 @@ with open(dir_path+"test_NLI_M.csv","w",encoding="utf-8") as g:
                         polarity.append(s[left+10:right-1])
                     s=f.readline().strip()
                 a=[item for item in d if item not in category]
-                ss=sample(a,2)
+                ss=sample(a,1)
                 for i in d:
                     if i in category:
                         g.write(id+"\t"+polarity[category.index(i)]+"\t"+i+"\t"+text+"\n")
@@ -74,7 +74,7 @@ with open(dir_path+"train_NLI_M.csv","w",encoding="utf-8") as g:
                         polarity.append(s[left+10:right-1])
                     s=f.readline().strip()
                 a=[item for item in d if item not in category]
-                ss=sample(a,2)
+                ss=sample(a,1)
                 for i in d:
                     if i in category:
                         g.write(id+"\t"+polarity[category.index(i)]+"\t"+i+"\t"+text+"\n")
