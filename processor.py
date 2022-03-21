@@ -318,7 +318,7 @@ class Semeval_NLI_M_Processor(DataProcessor):
         n=16926-600
         #train_data=train_data.drop(train_data[train_data[1].eq("none")].sample(n).index)
         
-        train_data = train_data.drop(train_data[train_data[1] == "none"].sample(frac=.95,random_state=0).index)
+     #   train_data = train_data.drop(train_data[train_data[1] == "none"].sample(frac=.95,random_state=0).index)
         train_data=train_data.sample(frac = 1, random_state=0)
         train_data=train_data.values
         return self._create_examples(train_data, "train")
@@ -329,7 +329,7 @@ class Semeval_NLI_M_Processor(DataProcessor):
         n=16926-600
        # dev_data=dev_data.drop(dev_data[dev_data[1].eq("none")].sample(n).index)
         
-        dev_data = dev_data.drop(dev_data[dev_data[1] == "none"].sample(frac=.95,random_state=0).index)
+     #   dev_data = dev_data.drop(dev_data[dev_data[1] == "none"].sample(frac=.95,random_state=0).index)
         dev_data=dev_data.sample(frac = 1, random_state=0)
         dev_data=dev_data.values
         return self._create_examples(dev_data, "dev")
@@ -339,7 +339,7 @@ class Semeval_NLI_M_Processor(DataProcessor):
         test_data = pd.read_csv(os.path.join(data_dir, "test_NLI_M.csv"),header=None,sep="\t")
         n=4242-150
         #test_data=test_data.drop(test_data[test_data[1].eq("none")].sample(n).index)
-        test_data = test_data.drop(test_data[test_data[1] == "none"].sample(frac=.90,random_state=0).index)
+       # test_data = test_data.drop(test_data[test_data[1] == "none"].sample(frac=.90,random_state=0).index)
         test_data=test_data.sample(frac = 1, random_state=0)
 
         test_data=test_data.values
