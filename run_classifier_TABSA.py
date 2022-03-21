@@ -424,7 +424,7 @@ def main():
                     label_ids = label_ids.to(device)
 
                     with torch.no_grad():
-                        tmp_test_loss, logits = model(input_ids, segment_ids, input_mask, label_ids)
+                        tmp_test_loss, logits = model(input_ids, segment_ids, input_mask, label_ids)[0]
 
                     logits = F.softmax(logits, dim=-1)
                     logits = logits.detach().cpu().numpy()
