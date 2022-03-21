@@ -9,6 +9,8 @@ import collections
 import logging
 import os
 import random
+from transformers import BertModel, BertTokenizer, AdamW, get_linear_schedule_with_warmup
+from transformers import BertForSequenceClassification
 
 import numpy as np
 import torch
@@ -19,7 +21,7 @@ from torch.utils.data.sampler import RandomSampler, SequentialSampler
 from tqdm import tqdm, trange
 
 import tokenization
-from modeling import BertConfig, BertForSequenceClassification
+from modeling import BertConfig
 from optimization import BERTAdam
 from processor import (Semeval_NLI_B_Processor, Semeval_NLI_M_Processor,
                        Semeval_QA_B_Processor, Semeval_QA_M_Processor,
@@ -348,11 +350,8 @@ def main():
 
 
     # model and optimizer
-    model = BertForSequenceClassification(bert_config, len(label_list))
-    if args.init_eval_checkpoint is not None:
-        model.load_state_dict(torch.load(args.init_eval_checkpoint, map_location='cpu'))
-    elif args.init_checkpoint is not None:
-        model.bert.load_state_dict(torch.load(args.init_checkpoint, map_location='cpu'))
+    model = BertForSequenceClassification.from_pretrained("aubmindlab/bert-base-arabertv2", num_labels = len(label_list) )
+
     model.to(device)
 
     if args.local_rank != -1:
@@ -392,7 +391,7 @@ def main():
         for step, batch in enumerate(tqdm(train_dataloader, desc="Iteration")):
             batch = tuple(t.to(device) for t in batch)
             input_ids, input_mask, segment_ids, label_ids = batch
-            loss, _ = model(input_ids, segment_ids, input_mask, label_ids)
+            loss=  model(input_ids, attention_mask=input_mask, token_type_ids=segment_ids, labels=label_ids)[0]
             if n_gpu > 1:
                 loss = loss.mean() # mean() to average on multi-gpu.
             if args.gradient_accumulation_steps > 1:
