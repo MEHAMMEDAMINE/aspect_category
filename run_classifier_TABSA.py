@@ -425,9 +425,8 @@ def main():
 
                     with torch.no_grad():
                         o = model(input_ids, attention_mask=input_mask, token_type_ids=segment_ids, labels=label_ids)
-			
-		    tmp_test_loss = o[0]
-		    tmp_test_loss, logits = o[:2]
+			tmp_test_loss = o[0]
+			tmp_test_loss, logits = o[:2]
                     logits = F.softmax(logits, dim=-1)
                     logits = logits.detach().cpu().numpy()
                     label_ids = label_ids.to('cpu').numpy()
