@@ -10,7 +10,7 @@ dir_path = data_dir+'bert-pair/'
 if not os.path.exists(dir_path):
     os.makedirs(dir_path)
 d=['الحبكة', 'المشاعر', 'الاسلوب', 'السياق', 'السلبيات', 'المؤلف', 'التقييم', 'الاماكن', 'الطائفية', 'الخاتمة', 'اللغات', 'الهوامش', 'الوقت', 'الاموال', 'المزايا']
-with open(dir_path+"test_NLI_M.csv","w",encoding="utf-8") as g:
+with open(dir_path+"test_QA_M.csv","w",encoding="utf-8") as g:
     with open(data_dir+"HAAD_Test_GOLD.xml","r",encoding="utf-8") as f:
         s=f.readline().strip()
         while s:
@@ -48,7 +48,7 @@ with open(dir_path+"test_NLI_M.csv","w",encoding="utf-8") as g:
                 s = f.readline().strip()
 
 
-with open(dir_path+"train_NLI_M.csv","w",encoding="utf-8") as g:
+with open(dir_path+"train_QA_M.csv","w",encoding="utf-8") as g:
     with open(data_dir+"HAAD_Train.xml","r",encoding="utf-8") as f:
         s=f.readline().strip()
         while s:
