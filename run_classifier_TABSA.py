@@ -171,12 +171,7 @@ def main():
                         type=str,
                         required=True,
                         help="The vocabulary file that the BERT model was trained on.")
-    parser.add_argument("--bert_config_file",
-                        default=None,
-                        type=str,
-                        required=True,
-                        help="The config json file corresponding to the pre-trained BERT model. \n"
-                             "This specifies the model architecture.")
+
     parser.add_argument("--output_dir",
                         default=None,
                         type=str,
@@ -184,10 +179,6 @@ def main():
                         help="The output directory where the model checkpoints will be written.")
     
     ## Other parameters
-    parser.add_argument("--init_checkpoint",
-                        default=None,
-                        type=str,
-                        help="Initial checkpoint (usually from a pre-trained BERT model).")
     parser.add_argument("--init_eval_checkpoint",
                         default=None,
                         type=str,
@@ -276,12 +267,12 @@ def main():
     if n_gpu > 0:
         torch.cuda.manual_seed_all(args.seed)
 
-    bert_config = BertConfig.from_json_file(args.bert_config_file)
+    #bert_config = BertConfig.from_json_file(args.bert_config_file)
 
-    if args.max_seq_length > bert_config.max_position_embeddings:
-        raise ValueError(
-            "Cannot use sequence length {} because the BERT model was only trained up to sequence length {}".format(
-            args.max_seq_length, bert_config.max_position_embeddings))
+    #if args.max_seq_length > bert_config.max_position_embeddings:
+      #  raise ValueError(
+           # "Cannot use sequence length {} because the BERT model was only trained up to sequence length {}".format(
+           # args.max_seq_length, bert_config.max_position_embeddings))
 
     if os.path.exists(args.output_dir) and os.listdir(args.output_dir):
         raise ValueError("Output directory ({}) already exists and is not empty.".format(args.output_dir))
