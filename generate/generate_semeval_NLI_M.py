@@ -39,7 +39,7 @@ with open(dir_path+"test_NLI_M.csv","w",encoding="utf-8") as g:
                     s=f.readline().strip()
                 a=[item for item in d if item not in category]
                 random.seed(10)
-                ss=sample(a,2)
+                ss=sample(a,3)
                 for i in d:
                     if i in category:
                         g.write(id+"\t"+polarity[category.index(i)]+"\t"+i+"\t"+text+"\n")
@@ -77,7 +77,7 @@ with open(dir_path+"train_NLI_M.csv","w",encoding="utf-8") as g:
                     s=f.readline().strip()
                 a=[item for item in d if item not in category]
                 random.seed(10)
-                ss=sample(a,2)
+                ss=sample(a,3)
                 for i in d:
                     if i in category:
                         g.write(id+"\t"+polarity[category.index(i)]+"\t"+i+"\t"+text+"\n")
