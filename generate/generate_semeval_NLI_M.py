@@ -7,7 +7,7 @@ Created on Wed Mar  2 10:00:05 2022
 import os
 from random import sample
 import random
-
+random.seed(10)
 data_dir='../data/HAAD/'
 
 dir_path = data_dir+'bert-pair/'
@@ -38,7 +38,7 @@ with open(dir_path+"test_NLI_M.csv","w",encoding="utf-8") as g:
                         polarity.append(s[left+10:right-1])
                     s=f.readline().strip()
                 a=[item for item in d if item not in category]
-                random.seed(10)
+                
                 ss=sample(a,3)
                 for i in d:
                     if i in category:
@@ -76,7 +76,7 @@ with open(dir_path+"train_NLI_M.csv","w",encoding="utf-8") as g:
                         polarity.append(s[left+10:right-1])
                     s=f.readline().strip()
                 a=[item for item in d if item not in category]
-                random.seed(10)
+               
                 ss=sample(a,3)
                 for i in d:
                     if i in category:
