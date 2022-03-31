@@ -74,7 +74,7 @@ with open(dir_path+"train_QA_M.csv","w",encoding="utf-8") as g:
                         polarity.append(s[left+10:right-1])
                     s=f.readline().strip()
                 a=[item for item in d if item not in category]
-                random.seed(10)
+                
                 ss=sample(a,3)
                 for i in d:
                     if i in category:
