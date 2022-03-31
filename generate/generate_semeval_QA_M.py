@@ -2,6 +2,7 @@
 
 
 import os
+omport random
 from random import sample
 
 data_dir='../data/HAAD./'
@@ -34,7 +35,8 @@ with open(dir_path+"test_QA_M.csv","w",encoding="utf-8") as g:
                         polarity.append(s[left+10:right-1])
                     s=f.readline().strip()
                 a=[item for item in d if item not in category]
-                ss=sample(a,2)
+                random.seed(10)
+                ss=sample(a,3)
                 for i in d:
                     if i in category:
                         g.write(id+"\t"+polarity[category.index(i)]+"\t"+"ما رأيك في "+i+"\t"+text+"\n")
@@ -72,7 +74,8 @@ with open(dir_path+"train_QA_M.csv","w",encoding="utf-8") as g:
                         polarity.append(s[left+10:right-1])
                     s=f.readline().strip()
                 a=[item for item in d if item not in category]
-                ss=sample(a,2)
+                random.seed(10)
+                ss=sample(a,3)
                 for i in d:
                     if i in category:
                         g.write(id+"\t"+polarity[category.index(i)]+"\t"+"ما رأيك في "+i+"\t"+text+"\n")
