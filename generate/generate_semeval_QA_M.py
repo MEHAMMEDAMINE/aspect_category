@@ -2,7 +2,7 @@
 
 
 import os
-omport random
+import random
 from random import sample
 
 data_dir='../data/HAAD./'
@@ -39,9 +39,9 @@ with open(dir_path+"test_QA_M.csv","w",encoding="utf-8") as g:
                 ss=sample(a,3)
                 for i in d:
                     if i in category:
-                        g.write(id+"\t"+polarity[category.index(i)]+"\t"+"ما رأيك في "+i+"\t"+text+"\n")
+                        g.write(id+"\t"+polarity[category.index(i)]+"\t"+"ما رأيك في "+i+" ؟"+"\t"+text+"\n")
                 for l in ss:
-                        g.write(id + "\t" + "none" + "\t"  +"ما رأيك في "+l+ "\t" + text + "\n")
+                        g.write(id + "\t" + "none" + "\t"  +"ما رأيك في "+l+" ؟"+ "\t" + text + "\n")
 
                
                 
@@ -78,9 +78,10 @@ with open(dir_path+"train_QA_M.csv","w",encoding="utf-8") as g:
                 ss=sample(a,3)
                 for i in d:
                     if i in category:
-                        g.write(id+"\t"+polarity[category.index(i)]+"\t"+"ما رأيك في "+i+"\t"+text+"\n")
+                       g.write(id+"\t"+polarity[category.index(i)]+"\t"+"ما رأيك في "+i+" ؟"+"\t"+text+"\n")
                 for l in ss:
-                        g.write(id + "\t" + "none" + "\t"  +"ما رأيك في "+l+ "\t" + text + "\n")
+                        g.write(id + "\t" + "none" + "\t"  +"ما رأيك في "+l+" ؟"+ "\t" + text + "\n")
+
 
                 
 
