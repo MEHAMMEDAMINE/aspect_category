@@ -341,7 +341,7 @@ def main():
 
 
     # model and optimizer
-    model = BertForSequenceClassification.from_pretrained("aubmindlab/bert-base-arabertv2", num_labels = len(label_list) )
+    model = BertForSequenceClassification.from_pretrained("asafaya/bert-base-arabic", num_labels = len(label_list) )
 
     model.to(device)
 
