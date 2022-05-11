@@ -157,9 +157,7 @@ def main():
                         default=None,
                         type=str,
                         required=True,
-                        choices=["sentihood_single", "sentihood_NLI_M", "sentihood_QA_M", \
-                                "sentihood_NLI_B", "sentihood_QA_B", "semeval_single", \
-                                "semeval_NLI_M", "semeval_QA_M", "semeval_NLI_B", "semeval_QA_B"],
+                        choices=[ "HAAD_NLI_M", "HAAD_QA_M", ""],
                         help="The name of the task to train.")
     parser.add_argument("--data_dir",
                         default=None,
@@ -281,16 +279,10 @@ def main():
 
     # prepare dataloaders
     processors = {
-        "sentihood_single":Sentihood_single_Processor,
-        "sentihood_NLI_M":Sentihood_NLI_M_Processor,
-        "sentihood_QA_M":Sentihood_QA_M_Processor,
-        "sentihood_NLI_B":Sentihood_NLI_B_Processor,
-        "sentihood_QA_B":Sentihood_QA_B_Processor,
-        "semeval_single":Semeval_single_Processor,
-        "semeval_NLI_M":Semeval_NLI_M_Processor,
-        "semeval_QA_M":Semeval_QA_M_Processor,
-        "semeval_NLI_B":Semeval_NLI_B_Processor,
-        "semeval_QA_B":Semeval_QA_B_Processor,
+     
+        "HAAD_NLI_M":HAAD_NLI_M_Processor,
+        "HAAD_QA_M":HAAD_QA_M_Processor,
+        
     }
 
     processor = processors[args.task_name]()
