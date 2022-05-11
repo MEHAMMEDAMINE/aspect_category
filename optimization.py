@@ -2,7 +2,6 @@
 
 # Reference: https://github.com/huggingface/pytorch-pretrained-BERT
 
-"""PyTorch optimization for BERT model."""
 
 import math
 
