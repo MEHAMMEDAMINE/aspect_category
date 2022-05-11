@@ -23,11 +23,7 @@ from tqdm import tqdm, trange
 import tokenization
 from modeling import BertConfig
 from optimization import BERTAdam
-from processor import (Semeval_NLI_B_Processor, Semeval_NLI_M_Processor,
-                       Semeval_QA_B_Processor, Semeval_QA_M_Processor,
-                       Semeval_single_Processor, Sentihood_NLI_B_Processor,
-                       Sentihood_NLI_M_Processor, Sentihood_QA_B_Processor,
-                       Sentihood_QA_M_Processor, Sentihood_single_Processor)
+from processor import (HAAD_QA_M_Processor, HAAD_NLI_M_Processor)
 
 logging.basicConfig(format = '%(asctime)s - %(levelname)s - %(name)s -   %(message)s', 
                     datefmt = '%m/%d/%Y %H:%M:%S',
