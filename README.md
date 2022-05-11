@@ -4,7 +4,7 @@ Codes and corpora for paper "Utilizing BERT for Aspect-Based Sentiment Analysis 
 
 ## Requirement
 
-* pytorch: 1.0.0
+
 * python: 3.7.1
 * tensorflow: 1.13.1 (only needed for converting BERT-tensorflow-model to pytorch-model)
 * numpy: 1.15.4
